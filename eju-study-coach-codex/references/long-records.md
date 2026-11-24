@@ -1,0 +1,11 @@
+# 多周接续与有限读取
+
+resume是有界视图，不代表读完历史。Codex根据上一计划、相关证据与截断标志，read_learning_records按next_cursor继续；需旧版未完成题/手写稿时include_legacy_draft=true。record_truncated/legacy_draft_truncated或profile/last_plan的details_truncated为真时，用read_record_detail按next_offset续读原始JSON，event须event_id；profile和legacy_draft按对应record_type取。片段可能不能单独解析，未取完不能称完整已读。详细记录的has_more=false与历史列表的has_more是不同边界。
+
+不让学习者日常整理数据库或反复贴回18个目标。
+
+停学几周不补记每天错误，按今天时间自主选一个近期动作。改选科只保存本人确认的新profile，历史证据不删除/改名；计划记录暂停与理由。条件允许时处理最早真实卡点，不用一个通过推断整科。
+
+重复同ID同内容沿回执去重；同ID不同内容保留冲突，不只取更新或更好的成绩。跨聊天旧revision写入冲突时恢复最新，再重新判断计划，不能覆盖别会话。历史提示/曝光更正用可追溯retract/issue/resolve或来源原文，不洗旧作答为今天新的H0。
+
+结束正常由Codex保存管理plan和事实，并简短告知下次入口。只有本人请求导出/迁移或工具故障时才整理可携带文本；明确这不是保存回执或完整备份。参数见[协议](codex-tools.md)，维护见[持久化](codex-persistence.md)。

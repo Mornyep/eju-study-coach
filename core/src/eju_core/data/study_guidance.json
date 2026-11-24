@@ -1,0 +1,2595 @@
+{
+  "format": 1,
+  "items": {
+    "official-jasso-2018-1-japanese_reading-a002": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "案内に明記された、ラウンジが実施している具体的なサービスを選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 10,
+          "locator": "案内の中央、新聞・雑誌の説明に続く日本語教材についての文",
+          "summary": "日本語教材は読むだけでなく、借りることもできると案内されている。"
+        }
+      ],
+      "knowledge": [
+        "目的の説明と、実際に提供するサービスの記述を区別する。",
+        "相談に対応することから、仕事の紹介や定期行事の開催まで広げて推論しない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "生活やキャリアの相談を受けることは書かれているが、アルバイトを紹介するとは書かれていない。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "日本語教材の貸出が可能であるという案内と一致する。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "外国人向け資料が置かれているという説明であり、留学生の母国文化を紹介する資料を作っているという説明ではない。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "学生交流はラウンジ設置の目的だが、定期的な情報交換会を開くという記載はない。"
+        }
+      ],
+      "nextPractice": "別の施設案内で、目的・設備・実施サービスの三つを分け、各選択肢の動詞に直接対応する文を探す。",
+      "notes": "原文与选项未全文转写；这些是自己的解题说明。不得把本sidecar提前作为学习者题面展示。",
+      "item_version": "official-pages-d3ecbc7a185443e4",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-japanese_reading-a005": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "新旧商品の交替について、一般説明と例に共通する時間順序を整理する。",
+      "evidence": [
+        {
+          "pdfPage": 12,
+          "locator": "本文前半、旧来の商品が最盛期に達した後の説明",
+          "summary": "従来の商品が盛んになると次の商品が現れ、旧来の商品が対抗し、その後に新しい商品が広がる。"
+        },
+        {
+          "pdfPage": 12,
+          "locator": "携帯電話と固定電話の例の末尾",
+          "summary": "固定電話の値下げによる一時的な反応があっても、モバイル化の流れは続くと述べている。"
+        }
+      ],
+      "knowledge": [
+        "説明文の「登場」「抵抗」「普及」を別の段階として読む。",
+        "一時的な反応と最終的な広がりを混同しない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "新商品の登場を旧商品の最盛期より前にしており、本文の交替の始まり方と順序が逆。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "新商品の最盛期の後に旧商品の抵抗を置いているが、本文では普及する途中に旧商品が抵抗する。旧商品の衰退を出発点にする説明でもない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "新商品の登場を旧商品の最盛期より先に置き、旧商品の抵抗も新商品の最盛期より後に置いている。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "旧商品の最盛期、次の新商品の登場、旧商品の抵抗、新商品の最盛期という流れが本文の説明に合う。"
+        }
+      ],
+      "nextPractice": "別の技術交替を扱う短文で、出来事を四枚のカードにし、接続表現と具体例を使って順序を確かめる。",
+      "notes": "原文与选项未全文转写；这些是自己的解题说明。不得把本sidecar提前作为学习者题面展示。",
+      "item_version": "official-pages-293a8087131af764",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-japanese_reading-a010": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "人間とコンピュータの比較を踏まえ、文章全体の結論を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 14,
+          "locator": "本文中段、人間の思考との対比",
+          "summary": "人間には、論理的な処理以外の直感による思考もあると説明している。"
+        },
+        {
+          "pdfPage": 14,
+          "locator": "本文末段、コンピュータの価値を認め直す部分",
+          "summary": "直感の限界を述べた後でも、論理処理や計算の速さを評価している。"
+        }
+      ],
+      "knowledge": [
+        "一方の限界を述べることと、全面的に価値を否定することは違う。",
+        "対比と譲歩を合わせて主旨を取る。本文の「現在」は出題文の時点で読む。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "論理処理が得意であることは示されているが、自分で新しい論理を作り出せるという主張ではない。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "本文末段は論理処理や計算の速さでコンピュータの強みを認めており、人間が論理面で優れているとまとめていない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "直感的な思考ができないという本文の説明と逆。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "人間の直感とコンピュータの論理処理の速さという異なる強みをまとめている。"
+        }
+      ],
+      "nextPractice": "対比と譲歩のある短文で、前半の主張と末段の評価をそれぞれ一行にし、両方を残す要約を作る。",
+      "notes": "原文与选项未全文转写；这些是自己的解题说明。不得把本sidecar提前作为学习者题面展示。",
+      "item_version": "official-pages-09d28f0c3a2a4d91",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-japanese_reading-a011": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "筆者が示す、グループ別の価格設定を成功させる条件を特定する。",
+      "evidence": [
+        {
+          "pdfPage": 16,
+          "locator": "本文第2段落、グループ分けの基準を説明する部分",
+          "summary": "価格への反応が大きい人と小さい人を、適切に分けることが必要とされる。"
+        }
+      ],
+      "knowledge": [
+        "商品の機能による違いと、消費者の反応による分類を区別する。",
+        "経済の既知の知識より、筆者が条件として示した箇所を優先する。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "本文で分類する対象は消費者の価格への反応であり、商品の機能に優劣をつけることではない。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "消費者を価格への反応の違いで分けるという成功条件に一致する。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "他社より安いことは本文の成功条件ではない。反応の小さいグループには高い価格を示す説明もある。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "値段の変更を知らせることではなく、変更に対して消費者がどれほど反応するかを見分けることが条件。"
+        }
+      ],
+      "nextPractice": "条件を問う文章で、必要性を示す表現の直前と直後を探し、条件と具体例を区別する。",
+      "notes": "原文与选项未全文转写；这些是自己的解题说明。不得把本sidecar提前作为学习者题面展示。",
+      "item_version": "official-pages-7dc8a68122af789a",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-japanese_reading-a012": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "文章で定義された、需要の価格弾力性が小さい人たちの行動を言い換える。",
+      "evidence": [
+        {
+          "pdfPage": 16,
+          "locator": "本文第3段落、価格の変化への反応の大きさを説明する部分",
+          "summary": "弾力性は、価格が変わったときに購入量をどれほど変えるかを表す。"
+        },
+        {
+          "pdfPage": 16,
+          "locator": "本文第4段落後半、反応が小さいグループへの値上げの説明",
+          "summary": "値上げをしても購入量が大きく減らないグループとして扱われる。"
+        }
+      ],
+      "knowledge": [
+        "変化の向きと変化の大きさを分けて読む。",
+        "弾力性が小さいことは、購入量が絶対に変わらないという意味ではない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "小幅な値下げで購入量が大きく増えるのは、本文が弾力性の大きいグループとして説明する側。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "値下げで購入量が大きく減るという向きも、反応が大きいという点も、本文の説明に合わない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "値上げで購入量が大きく減るのは、価格への反応が小さいという条件と合わない。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "少し値上げされても購入量の変化が大きくないという説明が、弾力性の小さいグループに当たる。"
+        }
+      ],
+      "nextPractice": "別の説明文の専門語を、本文中の定義と具体例の二か所で確認し、「大きい／小さい」を入れ替えた選択肢を排除する。",
+      "notes": "原文与选项未全文转写；这些是自己的解题说明。不得把本sidecar提前作为学习者题面展示。",
+      "item_version": "official-pages-7dc8a68122af789a",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-japanese_reading-a023": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "1964年の大会で絵による案内が作られた直接の理由を確認する。",
+      "evidence": [
+        {
+          "pdfPage": 19,
+          "locator": "本文前半、当時の案内板と言葉の問題を述べる段落",
+          "summary": "日本語中心の文字表示では外国からの来訪者に伝わりにくいという問題がある。"
+        },
+        {
+          "pdfPage": 19,
+          "locator": "村越氏の説明を紹介する引用部分",
+          "summary": "多くの国の文字をすべて載せることはできず、代わりに絵で表す案が出された。"
+        }
+      ],
+      "knowledge": [
+        "解決しようとした具体的な問題と、一般的な文化の違いを区別する。",
+        "翻訳の質の問題と、全言語を表示する実用上の限界を区別する。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "すべての国の文字を案内に載せる実用上の難しさが、絵で表す提案につながったという説明に一致する。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "外国語に訳しても意味が伝わらないとは書かれていない。問題は各国の文字をすべて表示できないこと。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "外国人の多さは背景だが、案内板の数が不足したという説明ではない。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "文化や風習の違いは背景として出るものの、直接の課題は案内の言葉をどう伝えるかである。"
+        }
+      ],
+      "nextPractice": "理由問題では、背景の段落だけで決めず、提案や行動が出る文とその直前の問題点を結び付ける。",
+      "notes": "原文与选项未全文转写；这些是自己的解题说明。不得把本sidecar提前作为学习者题面展示。",
+      "item_version": "official-pages-be6988129af8fce9",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-japanese_reading-a024": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "下線の比喩が表す、開催国を越えた継承の内容を説明する。",
+      "evidence": [
+        {
+          "pdfPage": 19,
+          "locator": "本文後半、競技を表す絵の評価から下線部まで",
+          "summary": "後の開催国がデザインを変えながら引き継いだという説明が、比喩の直前にある。"
+        }
+      ],
+      "knowledge": [
+        "比喩を、その直前に説明された具体的な動作へ置き換える。",
+        "継承することと、形を一切変えず統一することは同じではない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "開催国ごとに変化を加えながら継承するという、直前の説明と一致する。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "日本のデザインが変更されずに使われ続けるという意味ではなく、開催国が変化させると書かれている。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "選手同士が絵文字で意思疎通する話ではなく、大会の案内表現が開催国から次の開催国へ引き継がれる話。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "国際的にデザインを一つへ統一することではない。国ごとの変化が明記されている。"
+        }
+      ],
+      "nextPractice": "別の比喩表現で、比喩の直前の主語・動詞を拾い、その二つを残した具体的な言い換えを作る。",
+      "notes": "原文与选项未全文转写；这些是自己的解题说明。不得把本sidecar提前作为学习者题面展示。",
+      "item_version": "official-pages-be6988129af8fce9",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-japanese_reading-a025": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "末段の評価を踏まえ、筆者が説明する普及の要因と一致する記述を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 19,
+          "locator": "本文最終段落、制作後の権利放棄と仮定の説明",
+          "summary": "自由に利用できるようにしたことを、世界へ受け継がれた要因として評価している。"
+        }
+      ],
+      "knowledge": [
+        "本文内の因果評価と、現実の権利制度への一般的な主張を区別する。",
+        "仮定の形で述べた反例から、筆者の肯定的な評価を読み取る。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "世界の財産として広げたいという制作側の願いは示されるが、それだけで著作権の対象外になるという制度上の主張ではない。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "権利を放棄したことで受け継がれたと評価する筆者の説明に逆らう。"
+        },
+        {
+          "choice": "3",
+          "correct": true,
+          "reason": "権利を放棄して利用できるようにしたことが世界への普及を支えたという、末段の説明と合う。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "歴史の長さを継承の理由としているのではなく、自由に利用できたことを重視している。"
+        }
+      ],
+      "nextPractice": "仮定を使う結論文で、実際に行われたこと・逆の場合の仮定・筆者の評価を三列に整理する。",
+      "notes": "原文与选项未全文转写；这些是自己的解题说明。不得把本sidecar提前作为学习者题面展示。",
+      "item_version": "official-pages-be6988129af8fce9",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-integrated-a005": {
+      "item_version": "official-pages-21b8e28ddc16883b",
+      "reviewed": true,
+      "questionFocus": "先判断马德里在内陆还是沿海，再定位半岛中央。",
+      "evidence": [
+        {
+          "locator": "問2(1)，PDF第6页",
+          "summary": "地图给出四个位置。先观察②在半岛内陆，①③④分别位于北部、南西部与东北部附近；马德里的位置需要地理知识核对。"
+        }
+      ],
+      "knowledge": [
+        "位置关系：内陆、海岸、方向。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "①はスペイン北岸にある。中央部の内陸にあるマドリードの位置と一致しない。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "②はスペイン中央部の内陸にあり、マドリードの位置と一致する。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "③は半島南西部にあり、中央部のマドリードより南西にずれる。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "④は半島北東部の地中海岸にあり、内陸のマドリードの位置と一致しない。"
+        }
+      ],
+      "nextPractice": "换一张空白地图标出马德里，并解释为什么沿海点不符。"
+    },
+    "official-jasso-2018-1-integrated-a024": {
+      "item_version": "official-pages-3f92fea94eff8176",
+      "reviewed": true,
+      "questionFocus": "先看三角图的顶点与平行线，再比较第一产业占比。",
+      "evidence": [
+        {
+          "locator": "問18，PDF第16页",
+          "summary": "三角图上方顶点代表第一产业100%，底边代表0%；A最靠近上方，D最靠近底边。图中没有各国GDP金额。"
+        }
+      ],
+      "knowledge": [
+        "产业结构与收入的关系是推断依据，不能由占比计算 GDP 金额。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "Aは最も上にあり、第一次産業の就業人口割合が四か国中最大である。設問が求める低所得の国の推定として最適。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "Bの第一次産業割合はAより低い。低所得国で高い農業就業割合がみられるという判断基準ではAが優先される。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "Cは底辺に近く、第一次産業割合がAやBより低い。第一次産業への就業集中が最も大きい国ではない。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "Dは底辺に最も近く、第一次産業割合が四か国中最小である。第一次産業割合の最大・最小を逆に読んだ選択となる。"
+        }
+      ],
+      "nextPractice": "在三角图上找出第一产业占比最大和最小的点，并说明推断限度。"
+    },
+    "official-jasso-2018-1-integrated-a009": {
+      "item_version": "official-pages-b951f6019362812b",
+      "reviewed": true,
+      "questionFocus": "将保护幼稚产业的主张、经济学家和国家对应。",
+      "evidence": [
+        {
+          "locator": "問3，PDF第9页",
+          "summary": "题干要求把幼稚产业保护论与人物、国家对应，没有可从图表直接读取的答案；需要核对经济思想史知识。"
+        }
+      ],
+      "knowledge": [
+        "后发工业国的保护贸易论与比较成本基础上的自由贸易论。"
+      ],
+      "optionAnalysis": [
+        "幼稚産業保護論を唱えたのはドイツの経済学者リストであり、①が正しい。先行して工業化したイギリスとの競争の下で、後発国の産業育成に保護関税が必要だと考えた。リカードは比較生産費説に基づく自由貿易の議論で知られ、②・④の人物の対応は違う。③はリストの国を取り違えている。"
+      ],
+      "nextPractice": "用一句话分别说明李斯特与李嘉图的贸易主张。"
+    },
+    "official-jasso-2018-1-integrated-a011": {
+      "item_version": "official-pages-0fb1971188e6db45",
+      "reviewed": true,
+      "questionFocus": "先读集中度指标和图中年代，再用产业结构知识配线。",
+      "evidence": [
+        {
+          "locator": "問5，PDF第10页",
+          "summary": "横轴为1985—2014年，①接近集中度最大值，④较低；图形与题目列出的产业名称须结合当时产业结构判断。"
+        }
+      ],
+      "knowledge": [
+        "市场集中度取决于各企业份额；必须保留1985—2014年的题目时点。"
+      ],
+      "optionAnalysis": [
+        "公式正解は②。出題対象期間の日本では、たばこ製造がほぼ一社に集中するため、最大値の10000付近にある①を先に対応付けられる。電気は地域ごとの大手電力会社が全国の供給を分担するため全国集計の集中度が低く、④に対応する。ビールは少数の大手メーカーへの集中が大きく、③に対応する。残る②がパーソナルコンピュータである。線の形だけから商品名が一意に出るわけではなく、1985〜2014年という時点と産業構造の知識を組み合わせる。現在の市場シェアへの読み替えはしない。"
+      ],
+      "nextPractice": "先解释最接近独占的曲线，再说明如何排除其余曲线。"
+    },
+    "official-jasso-2018-1-integrated-a012": {
+      "item_version": "official-pages-c9a12b1bf638946c",
+      "reviewed": true,
+      "questionFocus": "沿着央行买入债券、支付资金的方向判断货币供给。",
+      "evidence": [
+        {
+          "locator": "問6，PDF第11页",
+          "summary": "题干以金融宽松为条件，并要求同时选择货币量方向和公开市场操作；资金流向要从交易过程解释。"
+        }
+      ],
+      "knowledge": [
+        "买入操作供给资金，卖出操作吸收资金；不要倒置交易双方。"
+      ],
+      "optionAnalysis": [
+        "買いオペレーションでは、日本銀行が金融機関などから債券を購入し、代金を供給する。金融緩和では通貨量を増加させる方向なので、増加と買いオペレーションを組み合わせた①が正しい。売りオペレーションは資金を吸収するため、②・④は金融緩和の操作と逆である。③は買いオペによる資金供給の向きを逆にしている。"
+      ],
+      "nextPractice": "分别画出买入与卖出操作的债券流和资金流。"
+    },
+    "official-jasso-2018-1-integrated-a013": {
+      "item_version": "official-pages-f42f6882fa30876f",
+      "reviewed": true,
+      "questionFocus": "比较消费与投资在 GDP 中的构成比，保留2016年时点。",
+      "evidence": [
+        {
+          "locator": "問7，PDF第12页",
+          "summary": "2016年表中A的民间最终消费占69%，B的固定资本形成占42%；数值是构成比，并带有统计误差说明。"
+        }
+      ],
+      "knowledge": [
+        "占比不等于金额；统计误差不能当作国别判断条件。"
+      ],
+      "optionAnalysis": [
+        "Aは民間最終消費支出が69%と高く、アメリカに対応する。Bは総固定資本形成が42%と高く、当時の投資比率が大きい中国に対応する。残るCが日本なので、A=アメリカ、B=中国、C=日本の②が正しい。金額の大きさではなく、表に示された2016年の構成比を比べる。注記のとおり統計上の誤差があり、合計が厳密に100になることを判定条件にしない。"
+      ],
+      "nextPractice": "先找最突出的消费比重和投资比重，再写出国别对应依据。"
+    },
+    "official-jasso-2018-1-integrated-a014": {
+      "item_version": "official-pages-497cb1eb337623f7",
+      "reviewed": true,
+      "questionFocus": "先定位负增长的年份，再匹配事件及其滞后影响。",
+      "evidence": [
+        {
+          "locator": "問8，PDF第13页",
+          "summary": "图中A位于1974年前后，B位于2009年前后的负增长处；先读坐标，再对照事件年代。"
+        }
+      ],
+      "knowledge": [
+        "事件发生年和年度 GDP 出现影响的年份可以不同。"
+      ],
+      "optionAnalysis": [
+        "Aは1974年付近のマイナス成長で、1973年に始まる第一次石油危機の影響に対応する。Bは2009年付近の大きな落ち込みで、2008年に深刻化した世界金融危機の影響に対応する。組合せは①。バブル経済の崩壊は1990年代初頭、東日本大震災は2011年であり、図のA・Bの位置とは合わない。発生年とGDPへの影響が現れる年を区別する。"
+      ],
+      "nextPractice": "分别列出事件发生年份与图中下降年份，解释时间差。"
+    },
+    "official-jasso-2018-1-integrated-a015": {
+      "item_version": "official-pages-4ad7b6047ee07317",
+      "reviewed": true,
+      "questionFocus": "判断措施是否直接监督公司经营，而非泛指企业活动。",
+      "evidence": [
+        {
+          "locator": "問9，PDF第14页",
+          "summary": "四项措施必须按其直接作用分类：经营监督、内部资金积累、雇用、文化支持；题目要求公司治理。"
+        }
+      ],
+      "knowledge": [
+        "公司治理、资金积累、雇用政策和文化赞助是不同概念。"
+      ],
+      "optionAnalysis": [
+        "企業統治では経営を適切に監督し、経営者の独断や利益相反を抑える仕組みが重視される。社外取締役の導入はその仕組みに当たるため、③が正しい。内部留保の拡大は資金の蓄積、正規雇用の促進は雇用政策、文化・芸術支援は企業メセナに関することであり、この設問の企業統治改革を直接表す選択肢ではない。"
+      ],
+      "nextPractice": "把四项措施分别归类，并解释外部董事的监督作用。"
+    },
+    "official-jasso-2018-1-integrated-a017": {
+      "item_version": "official-pages-bd316499506d02e2",
+      "reviewed": true,
+      "questionFocus": "先统一成日元，再计算今年减去前年。",
+      "evidence": [
+        {
+          "locator": "問11，PDF第15页",
+          "summary": "两年的美元收入同为10亿美元，汇率分别为每美元120日元和100日元；先各自换算，不能直接把汇率差当销售额差。"
+        }
+      ],
+      "knowledge": [
+        "日元升值时，同额美元收入折合日元减少；检查金额单位。"
+      ],
+      "optionAnalysis": [
+        "ドル建ての売上は両年とも10億ドル。前年は10億×120=1200億円、今年は10億×100=1000億円となる。差は1000−1200=−200億円で、④が正しい。1ドル当たりの円が減る円高では、同じドル収入の円換算額は小さくなる。100億円という差は計算が合わず、増加という向きも逆である。"
+      ],
+      "nextPractice": "写出两年的换算式、单位和差额，不只记住升值的口诀。"
+    },
+    "official-jasso-2018-1-integrated-a027": {
+      "item_version": "official-pages-d0e99d4e660f5458",
+      "reviewed": true,
+      "questionFocus": "逐项核对两院的权限及国会议员、国务大臣的构成条件。",
+      "evidence": [
+        {
+          "locator": "問21，PDF第17页",
+          "summary": "选项对两院代表性、内阁不信任、弹劾法庭、大臣构成作了不同陈述；需要逐条核对制度条件。"
+        }
+      ],
+      "knowledge": [
+        "内阁不信任决议属于众议院；弹劾法庭由两院议员组成。"
+      ],
+      "optionAnalysis": [
+        "内閣不信任決議を行うのは衆議院だけなので、②が正しい。両院の議員はともに全国民を代表する選挙された議員であり、参議院を職業別代表とする①は違う。裁判官の弾劾裁判所は両議院の議員で組織されるため、参議院だけの権限とする③も違う。国務大臣は過半数を国会議員から選ぶが、両院同数という条件はないため④も違う。"
+      ],
+      "nextPractice": "分别写出不信任决议、弹劾法庭和大臣选任的主体与条件。"
+    },
+    "official-jasso-2018-1-integrated-a028": {
+      "item_version": "official-pages-7c98f6937b3f7693",
+      "reviewed": true,
+      "questionFocus": "区分议席分配方式和投票时是否署名。",
+      "evidence": [
+        {
+          "locator": "問22，PDF第18页",
+          "summary": "候选项包含不同选举制度，也包含是否署名的投票方法；题目关心没有对应议席的选票。"
+        }
+      ],
+      "knowledge": [
+        "一人当选的小选区制容易产生不计入席位的票，但具体比例受得票分布影响。"
+      ],
+      "optionAnalysis": [
+        "小選挙区制は一つの選挙区で一人だけが当選するため、当選者以外への票が議席に結び付きにくい。設問の比較では②が最適である。大選挙区制は複数人が当選し、比例代表制は政党の得票に応じた議席配分を目指す。記名投票制は投票者の氏名を記す方法のことで、議席配分方式を表すものではない。実際の死票の量は得票分布にも左右されるので、必ず同じ割合になるとは言えない。"
+      ],
+      "nextPractice": "用一个小选区的票数例子说明哪些票没有对应当选席位。"
+    },
+    "official-jasso-2018-1-integrated-a030": {
+      "item_version": "official-pages-c79335ccecd34852",
+      "reviewed": true,
+      "questionFocus": "以1956年加入联合国为时间锚点，检查国交恢复事件。",
+      "evidence": [
+        {
+          "locator": "問24，PDF第19页",
+          "summary": "以日本1956年加入联合国为锚点，比较各项外交文件的时间及其与国交恢复的关联。"
+        }
+      ],
+      "knowledge": [
+        "日苏共同宣言、安保条约、日韩基本条约、日中共同声明的时序。"
+      ],
+      "optionAnalysis": [
+        "1956年の日ソ共同宣言によって日本とソ連の国交が回復し、ソ連は日本の国連加盟を支持した。日本は同年に国連へ加盟したため、①が正しい。1960年の新日米安保条約、1965年の日韓基本条約、1972年の日中共同声明は、いずれも1956年の加盟より後である。"
+      ],
+      "nextPractice": "按1956、1960、1965、1972排列相应外交事件。"
+    },
+    "official-jasso-2018-1-integrated-a032": {
+      "item_version": "official-pages-51fcce79b9b94e4c",
+      "reviewed": true,
+      "questionFocus": "找尊重国内少数文化与语言的制度，而非对外推广。",
+      "evidence": [
+        {
+          "locator": "問26，PDF第20页",
+          "summary": "先看每项政策作用于国内语言群体、国家间合作、企业还是海外文化推广，再核对多元文化主义。"
+        }
+      ],
+      "knowledge": [
+        "多元文化主义与区域整合、招商、文化输出的目标不同。"
+      ],
+      "optionAnalysis": [
+        "国内の少数民族の言語を公用語として認める③は、多様な文化・言語の存在を制度的に尊重する政策であり、多文化主義に最も合う。①は国家間の地域統合、②は企業誘致、④は自国文化を国外へ広める政策であり、国内の文化的多様性の尊重という問いの中心とは異なる。"
+      ],
+      "nextPractice": "为每项政策写出作用对象：国内群体、国家关系或企业。"
+    },
+    "official-jasso-2018-1-integrated-a034": {
+      "item_version": "official-pages-58b53b9b90b95f2f",
+      "reviewed": true,
+      "questionFocus": "围绕维也纳会议的正统主义与势力均衡核对各项。",
+      "evidence": [
+        {
+          "locator": "問28，PDF第21页",
+          "summary": "题目围绕维也纳会议及会后安排；逐项对照原则、德国组织形态与荷兰政体，不仅记住会议名称。"
+        }
+      ],
+      "knowledge": [
+        "不把德国邦联当作神圣罗马帝国复活，也不把王国写成共和国。"
+      ],
+      "optionAnalysis": [
+        "ウィーン会議では、正統主義と大国間の勢力均衡が基本原則となったため、②が正しい。1806年に消滅した神聖ローマ帝国は復活せず、ドイツ連邦が形成された。会議はナポレオンの支配体制を承認する場ではない。オランダについても共和国化ではなく王国としての体制が整えられたので、①・③・④は合わない。"
+      ],
+      "nextPractice": "用两条原则解释会议目标，再核对德国和荷兰的制度变化。"
+    },
+    "official-jasso-2010-1-japanese_reading-a002": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-ee3ae06e490afd42",
+      "reviewed": true,
+      "reviewStatus": "source_and_key_checked_by_parent",
+      "questionFocus": "辞書や権威による定義と、実際のことばの変化を対比して筆者の考えを捉える。",
+      "evidence": [
+        {
+          "pdfPage": 10,
+          "locator": "本文第1段落、辞書の執筆者が独自の説だけを示す場合への批判",
+          "summary": "執筆者個人の定義と、社会で実際に使われる意味は一致しないことがある。"
+        },
+        {
+          "pdfPage": 10,
+          "locator": "本文最終段落、ことばの変化と落ち着き方の説明",
+          "summary": "権威が正誤を裁いて統一するのではなく、さまざまな使い方が動く中でまとまっていくと述べる。"
+        }
+      ],
+      "knowledge": [
+        "他者の考えを紹介する部分と、それに対する筆者の評価を分ける。",
+        "主旨問題では、冒頭の問題提起だけでなく結論の一般化を確かめる。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "使われ方が変化する中で意味が定まっていくという末段の説明に対応する。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "辞書がことばの正しい意味を一方的に決めるという役割を、筆者は支持していない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "権威ある執筆者であれば定義を決められるとは述べず、個人の説を押し付けることを問題にしている。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "行政による統一の試みは、完全には受け入れられなかった例として挙げられている。"
+        }
+      ],
+      "nextPractice": "別の評論で、筆者が批判する考えを囲み、結論と逆向きの選択肢を先に除く。",
+      "notes": "原文与选项未全文转写；以下为解题说明。仅在作答后或明确请求解答时展示。2010 年历史阅读练习，不作为 2026 年难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a003": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-d1b37ec41834f715",
+      "reviewed": true,
+      "reviewStatus": "source_and_key_checked_by_parent",
+      "questionFocus": "防虫剤が害虫の何に働きかけるのか、本文の仕組みから特定する。",
+      "evidence": [
+        {
+          "pdfPage": 11,
+          "locator": "本文第2段落中ほど、畑に物質を広げた後の作用",
+          "summary": "雌雄間の信号が乱されるため、交尾が妨げられて繁殖を抑えられる。"
+        }
+      ],
+      "knowledge": [
+        "結果だけでなく、原因から結果までの仕組みをたどる。",
+        "繁殖を抑えることを、成虫や卵を直接殺すことと言い換えない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "害虫の動きを止める仕組みは示されていない。作用するのは雌雄間の信号である。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "卵を直接取り除くという説明はなく、交尾を妨げることで繁殖を抑える。"
+        },
+        {
+          "choice": "3",
+          "correct": true,
+          "reason": "交尾を成立しにくくするという本文の働きに対応する。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "雌の成虫数を直接減らすとは書かれていない。雌の信号に似た物質で雌雄の交信を乱す。"
+        }
+      ],
+      "nextPractice": "別の仕組み説明を「働きかける対象→直接の作用→結果」の三段階に整理する。",
+      "notes": "原文与选项未全文转写；以下为解题说明。仅在作答后或明确请求解答时展示。2010 年历史阅读练习，不作为 2026 年难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a004": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-7e7f171e55fbb798",
+      "reviewed": true,
+      "reviewStatus": "source_and_key_checked_by_parent",
+      "questionFocus": "申込先、申込期限、必須テストを別々に確認し、受講までの順序を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 12,
+          "locator": "枠内の申込方法・申込期限の二項目",
+          "summary": "必要事項を書いた申込書は事務室へ、7月9日の正午までに提出する。"
+        },
+        {
+          "pdfPage": 12,
+          "locator": "枠内のクラス分けテストの項目",
+          "summary": "テストは同日の17時開始で、春の受講者も受ける必要がある。"
+        }
+      ],
+      "knowledge": [
+        "同じ日の複数の時刻は、何の締切・開始時刻かと組み合わせる。",
+        "以前の受講経験が免除条件になるかを、通知の明記に基づいて確かめる。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "正午までの事務室への申込書提出が、同日夕方の必須テストより先になる。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "申込書の提出先は事務室であり、テスト会場に提出するという手順ではない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "春のコースを受けた人もテストを受ける必要があると明記されている。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "17時はテスト開始時刻で、申込書の締切はそれより早い正午である。"
+        }
+      ],
+      "nextPractice": "別の申込案内で、行動・場所・期限・例外の四列を作り、条件を組み合わせて確認する。",
+      "notes": "原文与选项未全文转写；以下为解题说明。仅在作答后或明确请求解答时展示。2010 年历史阅读练习，不作为 2026 年难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a006": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-c7bb51b0d4e50daa",
+      "reviewed": true,
+      "reviewStatus": "source_and_key_checked_by_parent",
+      "questionFocus": "外部の圧力についての見方を踏まえ、筆者が勧める受け止め方を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 14,
+          "locator": "本文中ほど、意欲を高める力と圧力を結び付ける部分",
+          "summary": "外部からの力は、心の受け止め方によってよい方向にも悪い方向にも働くと述べる。"
+        },
+        {
+          "pdfPage": 14,
+          "locator": "本文末尾、嫌な仕事への意味付けと人生への評価",
+          "summary": "自分なりの意味を見いだして外からの力を自分の力に変える工夫を勧める。"
+        }
+      ],
+      "knowledge": [
+        "否定的な導入が、そのまま筆者の結論とは限らない。",
+        "対比の後に示される行動や工夫を主張の中心として読む。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "外部の圧力をなくすことではなく、その受け止め方を工夫することを勧めている。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "否定的な圧力そのものが人生を豊かにするとは述べず、力に変える工夫を重視する。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "本文は自分の心が圧力の意味を決めると述べており、自分の解釈を禁じる主張ではない。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "嫌な仕事にも意味を見いだすことで、受け止め方を変えられるという結論に合う。"
+        }
+      ],
+      "nextPractice": "導入で不満を述べる文章を読み、後半で勧める行動が何かを一文でまとめる。",
+      "notes": "原文与选项未全文转写；以下为解题说明。仅在作答后或明确请求解答时展示。2010 年历史阅读练习，不作为 2026 年难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a007": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-e7f2ab377b22526a",
+      "reviewed": true,
+      "reviewStatus": "source_and_key_checked_by_parent",
+      "questionFocus": "修復の昔の基準と現在の重点を区別する。",
+      "evidence": [
+        {
+          "pdfPage": 15,
+          "locator": "本文第3段落、従来の仕上がりとの対比の後",
+          "summary": "現在は損傷の進行を止めることを重視し、将来の再修理も考慮すると述べる。"
+        },
+        {
+          "pdfPage": 15,
+          "locator": "本文最終段落、昔と同じ材料を使うことの難しさ",
+          "summary": "同じ材料でも適さない場合があるため、科学的な加工も利用すると説明する。"
+        }
+      ],
+      "knowledge": [
+        "「従来」と「現在」に結び付く内容を分ける。",
+        "作業中に分かることと、作業の目的を混同しない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "以前の職人の仕事ぶりは修理部分を外す際に分かることで、現在の最重要目的ではない。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "損傷がそれ以上進まないようにするという現在の重点に対応する。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "修理箇所が目立たない仕上がりは、従来の評価基準として述べられている。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "同じ材料を使うだけでは適さない場合もあるとされており、現在の重点とは言えない。"
+        }
+      ],
+      "nextPractice": "過去と現在を比べる文章で、評価基準・目的・方法を時代別の表にまとめる。",
+      "notes": "原文与选项未全文转写；以下为解题说明。仅在作答后或明确请求解答时展示。2010 年历史阅读练习，不作为 2026 年难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a008": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-414587481aea3d10",
+      "reviewed": true,
+      "reviewStatus": "source_and_key_checked_by_parent",
+      "questionFocus": "すでに進んだ研究と、今後不足を補うべき情報を区別する。",
+      "evidence": [
+        {
+          "pdfPage": 16,
+          "locator": "本文冒頭、分類・生態に関する研究の現状",
+          "summary": "分類や生態の研究は進み、報告が多数あると述べている。"
+        },
+        {
+          "pdfPage": 16,
+          "locator": "本文中段から末尾、数量的なデータの例と不足の指摘",
+          "summary": "種ごとの個体数や、その総合による増減を確かめるための正確な情報が足りないと述べる。"
+        }
+      ],
+      "knowledge": [
+        "「しかし」の前にある現状と、後にある不足を区別する。",
+        "例示をまとめるとき、場所の名前と数量を入れ替えない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "野鳥保護の定義を決めることが課題だとは述べていない。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "種や場所への言及はあるが、必要だと強調されるのはそれぞれの個体数と増減の情報である。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "分類や生態の研究はすでに進んでいる現状として述べられ、新たな不足の中心ではない。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "種ごとの個体数と全体の増減を確かめるため、数量を正確につかむ必要があるという主張に合う。"
+        }
+      ],
+      "nextPractice": "研究の現状を扱う短文で、「できていること」と「不足していること」を二列に分ける。",
+      "notes": "原文与选项未全文转写；以下为解题说明。仅在作答后或明确请求解答时展示。2010 年历史阅读练习，不作为 2026 年难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a010": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-f10175eeb2885cad",
+      "reviewed": true,
+      "reviewStatus": "source_and_key_checked_by_parent",
+      "questionFocus": "脳の形態と言語との関係について、認める範囲と推定の限界を読む。",
+      "evidence": [
+        {
+          "pdfPage": 18,
+          "locator": "本文第2段落中ほど、必要条件と十分条件を区別する部分",
+          "summary": "脳の容積や形態的特徴は必要条件の一つでも、それだけで言語機能の存在を示すことはできないと述べる。"
+        },
+        {
+          "pdfPage": 18,
+          "locator": "本文最終文、形態だけから機能を推定することへの評価",
+          "summary": "脳の発達と言語の関係を認めつつ、形態だけに基づく機能の推定には慎重な立場を示す。"
+        }
+      ],
+      "knowledge": [
+        "必要条件を満たすことと、十分に証明できることを区別する。",
+        "関連を認めることと、ある時期を断定することは異なる。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "脳容積の増大期からの推定は冒頭で紹介される考えであり、筆者は容積だけでの断定に慎重である。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "容積や形態だけでは言語機能が備わった時期を確定できないという筆者の限界の指摘に合う。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "容積の調査量を増やせば解決するという主張ではなく、形態だけを根拠にすることの限界を述べている。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "筆者は脳の発達と言語の関係を認めており、全面的に無関係だとは述べていない。"
+        }
+      ],
+      "nextPractice": "必要条件と十分条件が出る説明文で、「関係がある」「証拠になる」「断定できる」を分けて読む。",
+      "notes": "原文与选项未全文转写；以下为解题说明。仅在作答后或明确请求解答时展示。2010 年历史阅读练习，不作为 2026 年难度校准。"
+    },
+    "official-jasso-2018-1-integrated-a001": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "終戦直後の公債発行と物価変動の関係を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 3,
+          "locator": "p3 問1の導入と(1)、とくに「終戦直後」と公債発行の記述",
+          "summary": "公債を戦費と復興に用いたという条件と、問われる時期が示される。インフレの仕組みは既有知識で補う。"
+        }
+      ],
+      "knowledge": [
+        "中央銀行による国債引受けと通貨供給の拡大を結び付ける。",
+        "戦後の物資不足なども物価上昇の背景であり、国債だけを唯一の原因と断定しない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "社会保障費削減と間接税中心の増税を、設問の公債大量発行がもたらした代表的影響とする説明は合わない。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "公債償還ができず海外借入れが長く不可能になったという説明は、本問で確認する通貨増発と物価上昇の関係に合わない。"
+        },
+        {
+          "choice": "3",
+          "correct": true,
+          "reason": "中央銀行の引受けによる通貨供給の拡大と、戦後の激しい物価上昇を結び付けている。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "物価の動きを下落とし、公債保有者の利益を述べる点が逆。インフレは名目額が固定された債権の実質価値を下げる。"
+        }
+      ],
+      "nextPractice": "物価上昇・下落のそれぞれについて、固定額の現金や債権の実質価値がどう変わるかを整理する。",
+      "notes": "原文・選択肢の全文転写ではなく独自の解説。歴史的な出題の文脈を保ち、現在の制度・情勢の判断へ拡張しない。",
+      "item_version": "official-pages-539919c46bace8a4",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-integrated-a002": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "日本地図で長崎の位置を特定する。",
+      "evidence": [
+        {
+          "pdfPage": 4,
+          "locator": "p3 共通文章の下線2、p4 日本と周辺地域の地図の四つの地点",
+          "summary": "求められている都市は長崎。上海・ウラジオストクとの接続は背景で、四点から日本国内の位置を選ぶ。"
+        }
+      ],
+      "knowledge": [
+        "長崎は九州の西側に位置する。",
+        "最初に北海道・本州・四国・九州を見分け、都市の位置を段階的に絞る。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "北海道側の地点であり、九州に位置する長崎ではない。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "本州北部の日本海側であり、長崎の位置ではない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "本州中部の日本海側であり、九州の長崎とは離れている。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "九州の西側を指し、長崎の位置に一致する。"
+        }
+      ],
+      "nextPractice": "同じ日本地図で島と海岸の向きを先に確認し、主要な港湾都市を位置付ける。",
+      "notes": "原文・選択肢の全文転写ではなく独自の解説。歴史的な出題の文脈を保ち、現在の制度・情勢の判断へ拡張しない。",
+      "item_version": "official-pages-fdf54cfa5989a084",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-integrated-a003": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "戦車が最初に実戦で用いられた戦争を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 5,
+          "locator": "p3 技術と戦争の共通文章、p5(3)の「初めて実戦で使用」",
+          "summary": "発明時期一般ではなく、最初の実戦使用の戦争が問われる。"
+        }
+      ],
+      "knowledge": [
+        "戦車は第一次世界大戦中の1916年に初めて実戦投入された。",
+        "クリミア戦争・普仏戦争・日露戦争はいずれも第一次世界大戦より前に起きた。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "第一次世界大戦に当たり、戦車の最初の実戦使用の時期と合う。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "19世紀の戦争であり、戦車の実戦使用より前。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "20世紀初めだが、第一次世界大戦より前であり、戦車の初実戦とは合わない。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "19世紀の戦争であり、戦車が実戦投入された時期ではない。"
+        }
+      ],
+      "nextPractice": "技術と戦争を対応させる年表を作り、発明・実用化・初実戦のどれを問われているかを確認する。",
+      "notes": "原文・選択肢の全文転写ではなく独自の解説。歴史的な出題の文脈を保ち、現在の制度・情勢の判断へ拡張しない。",
+      "item_version": "official-pages-24827c90de895191",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-integrated-a004": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "部分的核実験禁止条約の禁止範囲を区別する。",
+      "evidence": [
+        {
+          "pdfPage": 5,
+          "locator": "p3 核兵器についての共通文章、p5(4)の条約名と四つの説明",
+          "summary": "PTBTという条約が指定される。現行の国際情勢を推測する問題ではなく、条約の対象範囲を問う。"
+        }
+      ],
+      "knowledge": [
+        "1963年のPTBTは大気圏内・宇宙空間・水中の核実験を禁止し、地下核実験を一律には禁じなかった。ただし、地下でも実験国の領域外に放射性残留物を及ぼす爆発は禁止される。",
+        "禁止を実験場所で区分しており、兵器の種類や米ソだけの特権を定めたものではない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "国連の承認を得れば実験できるという仕組みではない。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "地下核実験を全面禁止には含めないという本問の概括に合う。ただし、地下実験が無条件に許されたわけではない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "原子爆弾と水素爆弾の種類によって実験可否を分ける条約ではない。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "米ソだけに核実験を認め、他国を一律に禁じるという区分ではない。"
+        }
+      ],
+      "nextPractice": "PTBTとCTBTを、成立の背景と対象範囲の二列で比較する。発効状態を扱う場合は最新の公式資料を別に確認する。",
+      "notes": "原文・選択肢の全文転写ではなく独自の解説。歴史的な出題の文脈を保ち、現在の制度・情勢の判断へ拡張しない。",
+      "item_version": "official-pages-e7ed4d8875bf8133",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-integrated-a006": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "四つの出来事を古いものから順に並べる。",
+      "evidence": [
+        {
+          "pdfPage": 7,
+          "locator": "p6 スペインの共通文章の下線2、p7(2)の四つの年表選択肢",
+          "summary": "四つの出来事の名称と並べ方が与えられる。年代は既有知識から補う。"
+        }
+      ],
+      "knowledge": [
+        "ヴェルサイユ条約の調印1919年、世界恐慌の勃発1929年、ドイツのポーランド侵攻1939年、国連憲章の調印1945年。",
+        "設問の導入が戦間期でも、列挙された四つをすべて見て並べる。国連憲章調印は戦間期に入らない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "国連憲章を世界恐慌より前に置く点が逆。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "世界恐慌をヴェルサイユ条約より前に置き、国連憲章をポーランド侵攻より前に置く点が違う。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "ヴェルサイユ条約が世界恐慌やポーランド侵攻より後になっており、順序が逆。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "1919年、1929年、1939年、1945年の順と一致する。"
+        }
+      ],
+      "nextPractice": "第一次世界大戦の終結、戦間期の経済危機、第二次世界大戦の開始、戦後秩序形成を一本の時間軸に並べる。",
+      "notes": "原文・選択肢の全文転写ではなく独自の解説。歴史的な出題の文脈を保ち、現在の制度・情勢の判断へ拡張しない。",
+      "item_version": "official-pages-78208a93018794aa",
+      "reviewed": true
+    },
+    "official-jasso-2018-1-integrated-a007": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "NATOの成立背景と組織の性格を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 7,
+          "locator": "p6 スペインの共通文章の下線3、p7(3)の組織説明",
+          "summary": "NATOが名指しされる。加盟国の現在の数ではなく、成立時の陣営と集団防衛という性格が問われる。"
+        }
+      ],
+      "knowledge": [
+        "NATOは1949年に成立した西側の集団防衛の枠組みであり、ソ連の拡大への対応が成立目的の一つだった。",
+        "軍事同盟、経済協力機構、国際平和機構を区別する。成立の目的を一つだけに限定しない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "ソ連を中心とする側と西側の関係を逆にしている。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "西側の集団防衛という性格と、ソ連を中心とする側への対抗という成立背景が合う。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "社会主義諸国の経済協力という説明であり、西側の集団防衛組織であるNATOとは異なる。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "ウィルソンの平和原則と結び付いた国際平和機構という説明は国際連盟に対応し、NATOではない。"
+        }
+      ],
+      "nextPractice": "NATO・ワルシャワ条約機構・COMECON・国際連盟を、成立年代、陣営、軍事／経済／平和の目的で比較する。",
+      "notes": "原文・選択肢の全文転写ではなく独自の解説。歴史的な出題の文脈を保ち、現在の制度・情勢の判断へ拡張しない。",
+      "item_version": "official-pages-7d82bb2456ee69e9",
+      "reviewed": true
+    },
+    "official-jasso-2010-1-japanese_reading-a013": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-54cbebdc71e51ff6",
+      "reviewed": true,
+      "reviewStatus": "candidate_pending_parent_review",
+      "questionFocus": "一般的な説明と、それを具体化する事例との関係から接続表現を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 21,
+          "locator": "本文第2段落と第3段落の冒頭",
+          "summary": "人ごとの解釈の違いを説明した後、職場のやり取りを具体例として示している。"
+        }
+      ],
+      "knowledge": [
+        "接続表現は空欄の直後だけでなく、前後の段落の役割で選ぶ。",
+        "対比の言葉が段落内にあっても、その段落全体が前段の具体例である場合がある。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "後段は前段を認めた上で留保する内容ではなく、その説明を具体化している。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "上司と部下の対比は具体例の内部にある。前段全体と後段全体を対置する接続ではない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "前段の事情を受けて解決の行動を取る流れではなく、解釈のずれの例を示している。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "一般説明から上司と部下の具体的な事例へ移る関係に合う。"
+        }
+      ],
+      "nextPractice": "別の説明文で、各段落を「一般説明・具体例・結論」に分け、段落間の関係から接続表現を選ぶ。",
+      "notes": "原文与选项未全文转写；这些是独自解题说明。仅作答后或明确请求解答时显示。2010 年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a014": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-54cbebdc71e51ff6",
+      "reviewed": true,
+      "reviewStatus": "candidate_pending_parent_review",
+      "questionFocus": "同じ言葉を受け取ったことと、その意味を同じように解釈したことを区別する。",
+      "evidence": [
+        {
+          "pdfPage": 21,
+          "locator": "本文第3段落、上司と部下それぞれの受け取り方の説明",
+          "summary": "同じ発言に対し、上司の意図と部下の解釈が異なるため、後の食い違いが起きている。"
+        }
+      ],
+      "knowledge": [
+        "発言の受信、意味の解釈、行動の三段階を分ける。",
+        "本文にある解釈の違いから、無視した・確認しなかったという行動まで補わない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "発言自体は届いているが、上司と部下の解釈が一致していないという説明に合う。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "部下が発言を知らなかったのではない。発言に別の意味を与えている。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "部下は自分なりに意味を解釈している。意味が分からず確認もしなかったとは述べていない。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "発言を意識的に無視したという説明ではなく、意図と解釈のずれである。"
+        }
+      ],
+      "nextPractice": "会話例を読むとき、話し手の意図・聞き手の解釈・実際の行動を三列に分け、書かれていない行動を足していないか確かめる。",
+      "notes": "原文与选项未全文转写；这些是独自解题说明。仅作答后或明确请求解答时显示。2010 年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a015": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-a6b7233ffe5962e1",
+      "reviewed": true,
+      "reviewStatus": "candidate_pending_parent_review",
+      "questionFocus": "三つの実験群を、報酬の予告と実際の授与という二つの条件で比較する。",
+      "evidence": [
+        {
+          "pdfPage": 22,
+          "locator": "本文第2段落、三つのグループへの条件の説明",
+          "summary": "第1群は予告あり・授与あり、第2群は予告なし・授与あり、第3群は予告なし・授与なしである。"
+        },
+        {
+          "pdfPage": 23,
+          "locator": "問1の比較対象",
+          "summary": "第1群と、それ以外の二群の違いをまとめて問うている。"
+        }
+      ],
+      "knowledge": [
+        "複数条件の実験は、条件ごとの表にすると比較対象を取り違えにくい。",
+        "一つの群だけに当てはまる差ではなく、比較する両方の群に共通する差を探す。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "絵の上手さによる群分けや結果の差は示されていない。第1群の報酬も全員に与えている。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "第2群も第1群と同じく実際に報酬を受け取っているため、他の二群との共通の違いにはならない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "報酬を与えた第1群と第2群はどちらも全員が対象であり、この点は違わない。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "実験前に報酬を予告されたのは第1群だけで、他の二群には予告がない。"
+        }
+      ],
+      "nextPractice": "別の実験説明で、群を行、操作した条件を列にして比較表を作り、一つだけ異なる条件を特定する。",
+      "notes": "原文与选项未全文转写；这些是独自解题说明。仅作答后或明确请求解答时显示。2010 年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a016": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-a6b7233ffe5962e1",
+      "reviewed": true,
+      "reviewStatus": "candidate_pending_parent_review",
+      "questionFocus": "実験結果がどの条件の群に対応するかを特定し、結果の範囲を広げすぎない。",
+      "evidence": [
+        {
+          "pdfPage": 22,
+          "locator": "本文第2段落、第1群の条件",
+          "summary": "第1群には描画前に報酬を予告し、描画後には全員に渡している。"
+        },
+        {
+          "pdfPage": 22,
+          "locator": "本文最終段落、数日後の自発的な描画の比較",
+          "summary": "第1群では、自分から描いた子が他の二群の場合の約半分だったと説明する。"
+        }
+      ],
+      "knowledge": [
+        "結果の段落から該当する群を特定し、その群の条件を本文に戻って確認する。",
+        "実験にない条件の結果や、すべての報酬の効果まで一般化しない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "自発的な描画が減った第1群の、予告あり・実際の授与ありという条件に合う。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "予告したのに渡さない条件の群は、この実験には設けられていない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "これは第2群の条件であり、自発的な描画が少なくなった第1群とは異なる。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "これは第3群の条件であり、第1群に見られた低下の条件ではない。"
+        }
+      ],
+      "nextPractice": "実験結果の設問で、調べた条件と調べていない条件を先に分け、結果を当てはめられる範囲を確認する。",
+      "notes": "原文与选项未全文转写；这些是独自解题说明。仅作答后或明确请求解答时显示。2010 年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a021": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-f8dd690ae8699150",
+      "reviewed": true,
+      "reviewStatus": "candidate_pending_parent_review",
+      "questionFocus": "指示語を候補に置き換え、前後の譲歩と主張がつながるかを確かめる。",
+      "evidence": [
+        {
+          "pdfPage": 26,
+          "locator": "本文第1段落、専門家を批判する例",
+          "summary": "事情をよく知らないまま批判する例を挙げている。"
+        },
+        {
+          "pdfPage": 26,
+          "locator": "本文第2段落、指示語の前の譲歩と後の限定",
+          "summary": "専門家への評価は必要だと認め、批判を否定するのではなく取り組みの背景を知ることを求めている。"
+        }
+      ],
+      "knowledge": [
+        "指示語の指す内容は直前の名詞に機械的に決めず、段落をまたいだ主張の流れで確かめる。",
+        "指示語を具体的な内容に置き換え、否定や譲歩を含む文全体の意味が通るか確認する。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "外部の評価は必要だという説明を受け、筆者は批判する行為自体を否定しないと述べている。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "専門家が常に正しいという考えは、指示語の直前ですでに否定されている。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "評価を受ける必要性は、批判そのものを否定しない根拠として述べられている内容である。指示対象の行為とは役割が違う。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "問題への取り組みは、批判する前に知るべき背景として後で説明されるもので、指示語の対象ではない。"
+        }
+      ],
+      "nextPractice": "指示語を含む文で、候補を一つずつ代入し、前の根拠と後の限定の両方につながるかを確認する。",
+      "notes": "原文与选项未全文转写；这些是独自解题说明。仅作答后或明确请求解答时显示。2010 年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a022": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-f8dd690ae8699150",
+      "reviewed": true,
+      "reviewStatus": "candidate_pending_parent_review",
+      "questionFocus": "発信側の事情を理解することと、誤った情報を受け入れることを区別する。",
+      "evidence": [
+        {
+          "pdfPage": 26,
+          "locator": "本文第3段落、報道の速さと記事の扱いの例",
+          "summary": "報道の背景には、速く伝える意図や読者一般への重要性、他のニュースとの関係があると説明する。"
+        },
+        {
+          "pdfPage": 26,
+          "locator": "本文第3段落、不正確な情報への留保と最終文",
+          "summary": "不正確さへの批判を認めつつ、発信側の事情も考えれば一面的な怒りから離れられると述べる。"
+        }
+      ],
+      "knowledge": [
+        "事情を理解することは、誤りを容認したり情報を無視したりすることと同じではない。",
+        "選択肢の行動が、本文の留保や条件を消していないか確認する。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "不正確な情報は批判され得るという留保があり、誤情報を信用する変化ではない。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "自分の都合だけで判断せず発信側の事情に目を向けるので、方向が逆である。"
+        },
+        {
+          "choice": "3",
+          "correct": true,
+          "reason": "発信側の意図や制約を知ることで、個人的・表面的な見方による批判を避けられるという意味に合う。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "情報を遠ざけるのではなく、その背景まで考えて受け止める姿勢を述べている。"
+        }
+      ],
+      "nextPractice": "ある行為への理解を勧める文章で、「理解する」と「正しいと認める」を分け、筆者が残している批判の条件を探す。",
+      "notes": "原文与选项未全文转写；这些是独自解题说明。仅作答后或明确请求解答时显示。2010 年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a023": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-e3cc7cc4bcac63c0",
+      "reviewed": true,
+      "reviewStatus": "candidate_pending_parent_review",
+      "questionFocus": "突発的な問題と、慣れのため見過ごされる慢性的な問題の違いから例を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 28,
+          "locator": "本文第1・第2段落、突発的なトラブルの説明",
+          "summary": "発生したトラブルに対応することは、基本的には現状の回復だと説明する。"
+        },
+        {
+          "pdfPage": 28,
+          "locator": "本文第3段落、空欄の直後と慢性化についての説明",
+          "summary": "慢性化して日常の一部になった問題を見つけて改善する類型を説明する。"
+        }
+      ],
+      "knowledge": [
+        "例を選ぶ問題では、周辺の語だけでなく分類基準を先に言葉にする。",
+        "一度起きた出来事と、継続する状態を区別する。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "個別の注文の取り違えは、発生したミスへの対応であり、慢性化した状態の例ではない。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "不良率が高いという継続的な状態は、慣れて見過ごされやすい問題の例に合う。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "事故の発生は突発的なトラブルで、本文の第1類型に対応する。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "急な需要増への対応が追いつかないという突発的な事態で、慢性化した問題の例とは異なる。"
+        }
+      ],
+      "nextPractice": "複数の類型を説明する文章で、それぞれの判別基準を短く書き、具体例を分類して根拠を示す。",
+      "notes": "原文与选项未全文转写；这些是独自解题说明。仅作答后或明确请求解答时显示。2010 年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a024": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-e3cc7cc4bcac63c0",
+      "reviewed": true,
+      "reviewStatus": "candidate_pending_parent_review",
+      "questionFocus": "三種類の問題を二つの大きな区分に整理し、筆者の重視する順序を読む。",
+      "evidence": [
+        {
+          "pdfPage": 28,
+          "locator": "本文第2段落、第1類型をまとめる箇所",
+          "summary": "トラブルへの対処は現状の回復であり、それだけで以前よりよくなるわけではない。"
+        },
+        {
+          "pdfPage": 28,
+          "locator": "省略表示の後、第2・第3類型をまとめて評価する段落",
+          "summary": "第2・第3類型を成長につながる問題としてまとめ、企業が取り組むべきだと述べる。"
+        }
+      ],
+      "knowledge": [
+        "列挙順がそのまま重要度の順とは限らない。",
+        "本文が同じ役割としてまとめる項目の間に、書かれていない優劣を作らない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "本文は現状回復だけにとどまる問題と成長につながる問題を区別し、すべて同じ重要度とはしていない。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "第2・第3類型を同じ成長のための区分にまとめ、第1類型より重視する本文の評価に合う。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "第1類型を他の二つより重視する向きになっており、本文の評価と逆である。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "第1類型を最も重くする点が逆であり、第2と第3の間の序列も本文にない。"
+        }
+      ],
+      "nextPractice": "類型ごとの評価を読む問題で、筆者のまとめ方を図にし、列挙順と重要度を混同していないか確認する。",
+      "notes": "原文与选项未全文转写；这些是独自解题说明。仅作答后或明确请求解答时显示。2010 年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2010-1-japanese_reading-a025": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-e3cc7cc4bcac63c0",
+      "reviewed": true,
+      "reviewStatus": "candidate_pending_parent_review",
+      "questionFocus": "説明された類型と末尾の人材像を結び付け、筆者の求める能力を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 28,
+          "locator": "本文末尾の二段落、今後求められる人材についての記述",
+          "summary": "現状の維持だけでは変化に対応できないため、今すべきことを考えて新しい可能性を生む力を求める。"
+        }
+      ],
+      "knowledge": [
+        "結論の能力表現を、本文で定義した概念と対応させる。",
+        "一般的に望ましい能力でも、本文が主張していなければ主旨の答えにはしない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "成長につながる問題に取り組んで現状を変え、新しい可能性を生むという結論に合う。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "協力することの重要性を中心に述べた文章ではなく、本文にない主張を加えている。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "目の前の問題の分析と解決だけでは、先を見て現状を変えるという結論の重点を表せない。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "現状を維持するだけでは成長や市場への対応ができないと述べており、結論と反対である。"
+        }
+      ],
+      "nextPractice": "主旨問題で、結論にある動詞を抜き出し、前半の具体例や分類がどの結論につながるか一文でまとめる。",
+      "notes": "原文与选项未全文转写；这些是独自解题说明。仅作答后或明确请求解答时显示。2010 年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2010-1-integrated-a008": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "労働者の移動が二地域の労働供給と賃金に及ぼす変化を追う。",
+      "evidence": [
+        {
+          "pdfPage": 8,
+          "locator": "PDF 8頁（印刷頁 総合科目−6）問3とその全選択肢",
+          "summary": "高賃金のXと低賃金のY、移動費用なしという条件がある。YからXへの移動について四つの空欄を埋める。"
+        }
+      ],
+      "knowledge": [
+        "他の条件を一定とする本問のモデルでは、労働供給の減少は賃金上昇、増加は賃金下落につながる。",
+        "出発地Yと到着地Xを先に固定し、人数の変化を追ってから賃金の向きを考える。現実の移動制約を含む一般的な予測としては扱わない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "労働者が流出するYの供給を増加、流入するXを減少としており、移動の向きと逆。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "Yの供給減少、Xの供給増加、Yの賃金上昇、Xの賃金下落という連鎖がそろう。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "供給の増減が移動の向きと逆であり、賃金変化も条件に合わない。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "供給の増減は合うが、賃金をYで下落・Xで上昇としており、モデルの関係が逆。"
+        }
+      ],
+      "nextPractice": "人が出る地域と入る地域を矢印で結び、供給量と賃金を別の行にして増減を整理する。",
+      "notes": "歴史的な公式設問の条件に沿う独自解説。原文・選択肢の全文転写ではない。図表は改変せず完全な原頁で確認する。",
+      "item_version": "official-pages-6c4af41e8b991e87",
+      "reviewed": true
+    },
+    "official-jasso-2010-1-integrated-a009": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "問題の条件からGNPを求め、人口で割って一人当たりの値に直す。",
+      "evidence": [
+        {
+          "pdfPage": 8,
+          "locator": "PDF 8頁（印刷頁 総合科目−6）問4とその全選択肢",
+          "summary": "GDPは4兆ドル、国内で外国人が生んだ額は5000億ドル、国外でX国民が生んだ額は1兆5000億ドル、人口は1億人と示される。"
+        }
+      ],
+      "knowledge": [
+        "本問の与えた区分では、GDPから国内の外国人分を引き、国外のX国民分を足してGNPを求める。",
+        "5000億は0.5兆、1兆5000億は1.5兆。兆と億をそろえてから、一人当たりに換算する。",
+        "この計算は歴史的な設問の単純化に従う。実際の国民経済計算を国籍だけで区分するという一般的な説明には広げない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "4.0万ドルはGDPをそのまま人口で割った値であり、設問の二つの調整を入れていない。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "4.5万ドルでは、5兆ドルを1億人で割る計算と一致しない。"
+        },
+        {
+          "choice": "3",
+          "correct": true,
+          "reason": "4−0.5+1.5=5兆ドル、5兆÷1億=5万ドルとなる。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "5.5万ドルは国外分だけを足し、国内の外国人分を引かない場合の値。"
+        }
+      ],
+      "nextPractice": "総額の加減と一人当たりへの換算を二行に分け、それぞれに単位を書いて確かめる。",
+      "notes": "歴史的な公式設問の条件に沿う独自解説。原文・選択肢の全文転写ではない。図表は改変せず完全な原頁で確認する。",
+      "item_version": "official-pages-9d92c6bf798d5061",
+      "reviewed": true
+    },
+    "official-jasso-2010-1-integrated-a010": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "総費用のグラフから一台当たりの生産費用が最も小さい点を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 9,
+          "locator": "PDF 9頁（印刷頁 総合科目−7）問5とその全選択肢",
+          "summary": "横軸は生産台数、縦軸は総費用。A〜Dの各点における一台当たりの費用を比較する。"
+        }
+      ],
+      "knowledge": [
+        "一台当たりの費用は総費用を生産台数で割った平均費用である。",
+        "原点と各点を結ぶ直線の傾きがこの比に対応する。曲線そのものの傾きや総費用の高さだけでは選べない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "総費用は小さいが生産台数も少なく、原点からAへの傾きはBより大きい。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "原点と結ぶ直線の傾きがA・C・Dより小さく、一台当たりの費用が最小。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "Bから総費用が大きく上がっており、原点と結ぶ直線の傾きもBより大きい。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "総費用の増加が大きく、原点からの傾きはBより大きい。"
+        }
+      ],
+      "nextPractice": "グラフで総量を読む問題か、一単位当たりの比を読む問題かを先に確認する。",
+      "notes": "歴史的な公式設問の条件に沿う独自解説。原文・選択肢の全文転写ではない。図表は改変せず完全な原頁で確認する。",
+      "item_version": "official-pages-800f9800f9b469a3",
+      "reviewed": true
+    },
+    "official-jasso-2010-1-integrated-a012": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "費用上昇と需要増加を別々に考え、需要・供給曲線の移動後の均衡点を読む。",
+      "evidence": [
+        {
+          "pdfPage": 10,
+          "locator": "PDF 10頁（印刷頁 総合科目−8）問7とその全選択肢",
+          "summary": "初めの均衡はE。Xの生産コスト上昇とYの需要増加がそれぞれ起こる場合を問う。"
+        }
+      ],
+      "knowledge": [
+        "生産コスト上昇では、他の条件が一定なら供給曲線が左上へ動き、価格が上がって数量が減る。",
+        "需要増加では需要曲線が右上へ動き、価格と数量がともに増える。二つの変化を同時に重ねる問いではない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "XのAは合うが、YのBは需要減少に対応している。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "Xは価格上昇・数量減少のA、Yは価格上昇・数量増加のDとなる。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "XのCは供給増加、YのBは需要減少に対応し、両方とも逆。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "YのDは合うが、XのCは供給増加の向きであり、コスト上昇とは逆。"
+        }
+      ],
+      "nextPractice": "変化の原因、動く曲線、価格の向き、数量の向きの順で四点を確認する。",
+      "notes": "歴史的な公式設問の条件に沿う独自解説。原文・選択肢の全文転写ではない。図表は改変せず完全な原頁で確認する。",
+      "item_version": "official-pages-cec156d79693b286",
+      "reviewed": true
+    },
+    "official-jasso-2010-1-integrated-a018": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "低所得層への純便益の割合と金額を分けて比較する。",
+      "evidence": [
+        {
+          "pdfPage": 13,
+          "locator": "PDF 13頁（印刷頁 総合科目−11）問13とその全選択肢",
+          "summary": "四政策の総費用・総便益・純便益と、所得層別の純便益配分が表で示される。Xは割合、Yは金額を重視する。"
+        }
+      ],
+      "knowledge": [
+        "割合は低所得層の純便益を全体の純便益で割って比較する。金額の大小と同じ順序になるとは限らない。",
+        "Aは50/100=50%、Bは60/100=60%、Cは40/180≒22.2%、Dは80/180≒44.4%。金額はDの80億円が最大。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "Xの割合最大はAではなくB。Yの金額最大もCではなくD。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "YのDは合うが、XのAはBの60%を下回る。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "XのBは合うが、YのCは40億円で、Dの80億円を下回る。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "割合最大のBと金額最大のDを正しく区別している。"
+        }
+      ],
+      "nextPractice": "比較に使う分母を明記して割合を計算し、実額の順位は別の列で確認する。",
+      "notes": "歴史的な公式設問の条件に沿う独自解説。原文・選択肢の全文転写ではない。図表は改変せず完全な原頁で確認する。",
+      "item_version": "official-pages-af08ec9554e3a2c5",
+      "reviewed": true
+    },
+    "official-jasso-2010-1-integrated-a023": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "questionFocus": "緯度と経度差から二都市間のおおよその距離を求める。",
+      "evidence": [
+        {
+          "pdfPage": 17,
+          "locator": "PDF 17頁（印刷頁 総合科目−15）問16とその全選択肢",
+          "summary": "両都市は北緯約60度、経度は東経約10度と25度。赤道の全周は4万kmとする。"
+        }
+      ],
+      "knowledge": [
+        "球を仮定すると、緯度60度の緯線の半径は赤道の半径のcos60°=1/2になる。",
+        "緯線の全周約2万kmのうち、経度差15度分は20000×15/360≒833km。設問の概数として約800kmを選ぶ。",
+        "これは同緯度の緯線に沿った弧長を用いる近似であり、道路距離や厳密な最短経路を求めたものではない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "約400kmでは、緯線の周長と15度の割合から求める概数を大きく下回る。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "計算値約833kmに最も近い約800km。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "約1200kmは計算した概数より大きい。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "赤道に近い周長をそのまま使うと過大になる。北緯60度で緯線が短くなることを入れる必要がある。"
+        }
+      ],
+      "nextPractice": "緯度による緯線の長さと経度差の割合を分けて書き、単位をkmで確認する。",
+      "notes": "歴史的な公式設問の条件に沿う独自解説。原文・選択肢の全文転写ではない。図表は改変せず完全な原頁で確認する。",
+      "item_version": "official-pages-6c0bb1612de69b4d",
+      "reviewed": true
+    },
+    "official-jasso-2017-1-japanese_reading-a002": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-2c9fa07f02f0e1fd",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "指示表現が受ける前段の論理を、人数と割合の違いに注意して特定する。",
+      "evidence": [
+        {
+          "pdfPage": 10,
+          "locator": "第1段落の人数の例と、第2段落冒頭の下線部",
+          "summary": "村と都市で共通の趣味をもつ人に出会える可能性を比較し、その考えをインターネットへ広げている。"
+        }
+      ],
+      "knowledge": [
+        "指示語の直前にある結論と、その結論を支える例を一緒に確認する。",
+        "母集団が大きくなることと、該当者の割合が大きくなることを区別する。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "人口の多さにより同じ趣味の仲間が見つかりやすくなるという、前段の推論に一致する。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "例では趣味を共有する人の割合を共通に置いている。都市で割合そのものが高いとは述べていない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "前段では、感動を共有できる仲間を見つけやすいのは都市だと説明している。村の人数の方が多いという比較ではない。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "村に個性的な趣味の人が多いという人口構成は説明していない。人数の例から趣味の個性の強さを推測できない。"
+        }
+      ],
+      "nextPractice": "別の指示語の問題で、直前の例を一文の論理にまとめ、指示語に代入して後続文につながるか確認する。",
+      "notes": "原文与选项未全文转写；这些为独立解题说明，仅作答后或明确请求解答时显示。2017年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2017-1-japanese_reading-a011": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-0f545d624cceea37",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "受診する学生の所属と学内という条件から、指定日時と場所を取り出す。",
+      "evidence": [
+        {
+          "pdfPage": 13,
+          "locator": "案内「1．実施日時」の最初の区分と「2．実施場所」",
+          "summary": "経営学部の学生には5月11日午後の学内受診が指定されている。"
+        },
+        {
+          "pdfPage": 14,
+          "locator": "問1の設問と四つの選択肢",
+          "summary": "所属学部と学内受診という条件を満たす日時・場所を選ぶ。"
+        }
+      ],
+      "knowledge": [
+        "対象者の区分を先に固定してから日時を読む。",
+        "同じ案内内でも、学内と学外の別制度の条件を混ぜない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "経営学部に指定された日付・時間帯と、学内の実施場所に一致する。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "5月18日は商学部など別の対象区分の日で、経営学部の学内受診日ではない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "午後という時間帯だけは似ているが、指定日が別の対象区分に属している。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "この期間は指定日時に学内受診できない人の学外受診に関する記載であり、学内受診の指定ではない。"
+        }
+      ],
+      "nextPractice": "別の大学案内で、対象者・日時・場所を三列に整理し、設問の条件と同じ行だけを比較する。",
+      "notes": "原文与选项未全文转写；这些为独立解题说明，仅作答后或明确请求解答时显示。2017年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2017-1-japanese_reading-a012": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-0f545d624cceea37",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "学外受診の手続きで、最初の行動とその連絡先を特定する。",
+      "evidence": [
+        {
+          "pdfPage": 13,
+          "locator": "案内「5．その他」の学外受診の手順",
+          "summary": "学外施設に直接電話予約をした後、保健管理センターの窓口で受診票を受け取る順序が指定されている。"
+        },
+        {
+          "pdfPage": 14,
+          "locator": "問2の「まず」と四つの選択肢",
+          "summary": "必要な手続き一般ではなく、最初に行う手続きを尋ねている。"
+        }
+      ],
+      "knowledge": [
+        "手続き問題では、必要な行動だけでなく行動の順序を確認する。",
+        "予約先と書類の受取先が異なる場合は、機関ごとに動詞を対応させる。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "受診票を受け取る場所は学外施設ではなく学内の窓口であり、受領自体も予約の後である。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "受診票の受領は必要だが、学外施設への電話予約より後の手続きである。"
+        },
+        {
+          "choice": "3",
+          "correct": true,
+          "reason": "学外の健診施設へ直接電話予約することが、案内で最初に指定されている。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "予約の連絡先は保健管理センターではなく、学外の健診施設である。"
+        }
+      ],
+      "nextPractice": "別の手続き案内を読み、行動と相手を矢印で並べてから「最初」「次」「最後」の問いに答える。",
+      "notes": "原文与选项未全文转写；这些为独立解题说明，仅作答后或明确请求解答时显示。2017年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2017-1-japanese_reading-a013": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-da0cbadc784c6c48",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "否定表現の中の指示語が何を受けているかを特定する。",
+      "evidence": [
+        {
+          "pdfPage": 15,
+          "locator": "第1段落と第2段落冒頭の下線部",
+          "summary": "話し方の活発さで能力を判断する見方を紹介し、その直後に筆者が否定している。"
+        },
+        {
+          "pdfPage": 15,
+          "locator": "第2段落の末尾",
+          "summary": "積極的に発信するだけでは能力が高いとは限らないという説明が、否定対象を確認する手掛かりになる。"
+        }
+      ],
+      "knowledge": [
+        "「そうではない」の指示内容は、否定された命題そのものである。",
+        "指示語の中身を尋ねる問題と、筆者の最終的な立場を尋ねる問題を区別する。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "直前の説明は発言量と能力の評価の関係であり、話さないと相手が理解できないという必然関係ではない。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "活発に話す人が逆に理解されないという見方は、指示語の前に示されていない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "前段は話さない人を高く評価する内容ではない。また筆者も、話さないだけで能力が高いとは述べていない。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "活発に話す人を能力の高い人と捉える、直前に紹介された見方を表している。"
+        }
+      ],
+      "nextPractice": "別の否定を含む指示語問題で、指示語に候補を代入し、否定語を残した全文が筆者の説明に合うか確認する。",
+      "notes": "原文与选项未全文转写；这些为独立解题说明，仅作答后或明确请求解答时显示。2017年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2017-1-japanese_reading-a014": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-da0cbadc784c6c48",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "コミュニケーション能力についての結論を、情報の受信と相手の理解に注目してまとめる。",
+      "evidence": [
+        {
+          "pdfPage": 15,
+          "locator": "第2段落の発信・受信の説明と最終段落",
+          "summary": "相手の発する情報を理解し、その情報から相手の状況を把握することが重要だと述べている。"
+        }
+      ],
+      "knowledge": [
+        "冒頭に紹介された一般的なイメージと、筆者の結論を分ける。",
+        "結論の中心となる対象と動詞を保って要約する。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "相手を理解することは重視するが、周囲の意見に自分を合わせることを求めてはいない。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "相手から受信した情報を用いて、その感情や状況を理解するという結論に一致する。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "情報の真偽を判定する能力ではなく、情報から相手を理解する能力に焦点がある。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "積極的な発信だけで能力の高さは決まらないと述べており、受信の重要性を欠いた要約になっている。"
+        }
+      ],
+      "nextPractice": "別の主旨問題で、冒頭の一般論と末尾の筆者の結論をそれぞれ短く書き、どちらが選択肢に反映されているか比較する。",
+      "notes": "原文与选项未全文转写；这些为独立解题说明，仅作答后或明确请求解答时显示。2017年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2017-2-japanese_reading-a002": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-f9a982133699c122",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "募集案内の参加条件と、募集方法・費用・申込手段を照合する。",
+      "evidence": [
+        {
+          "pdfPage": 10,
+          "locator": "募集案内の「参加条件」「募集人数」と交通費・申込方法の各欄",
+          "summary": "出席条件、先着順、交通費の不支給、窓口とメールの二通りの方法が明記されている。"
+        },
+        {
+          "pdfPage": 11,
+          "locator": "四つの選択肢全体",
+          "summary": "募集案内に示された条件を一つずつ対応させる。"
+        }
+      ],
+      "knowledge": [
+        "案内の見出しを使い、選択肢の対象となる情報を探す。",
+        "条件・禁止・複数の方法を表す表現に注意する。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "募集は先着順で、定員に達した時点で締め切る。抽選という記載ではない。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "事前説明会への出席は参加条件として明記されている。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "活動場所の案内には交通費を支給しないと記載されている。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "メールだけでなく窓口での申し込みも案内されているため、方法を一つに限定できない。"
+        }
+      ],
+      "nextPractice": "別の募集案内で、対象・必須条件・費用・申込方法を分け、各選択肢を該当欄へ戻して確認する。",
+      "notes": "原文与选项未全文转写；这些为独立解题说明，仅作答后或明确请求解答时显示。2017年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2017-2-japanese_reading-a003": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-49f4828832106946",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "二種類のトレーニング効果について、文章が述べる男女差を区別する。",
+      "evidence": [
+        {
+          "pdfPage": 12,
+          "locator": "第2段落と「一方」で始まる最終段落",
+          "summary": "筋肥大の効果の大小と、絶対筋力のトレーニング効果を分けて男女差を説明している。"
+        }
+      ],
+      "knowledge": [
+        "同じ上位概念の中に複数の要因があるときは、要因ごとに記述を分ける。",
+        "向上するかどうかと、向上の程度が同じかどうかを区別する。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": true,
+          "reason": "設問が問うトレーニング効果について、絶対筋力は同じで筋肥大には差があるという本文の整理に一致する。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "二つの効果に関する男女差の有無を、本文と逆に組み合わせている。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "絶対筋力のトレーニング効果も異なるとする点が、最終段落に反する。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "筋肥大の効果の大小にも差がないとする点が、第2段落に反する。"
+        }
+      ],
+      "nextPractice": "別の比較説明文で、比較対象と比較項目の表を作り、一部の結論を全体へ広げていないか確認する。",
+      "notes": "原文与选项未全文转写；这些为独立解题说明，仅作答后或明确请求解答时显示。2017年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2017-2-japanese_reading-a010": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-7d28b3bb7f24824c",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "訓練で学ぶ行動を、本文の範囲を超えずに特定する。",
+      "evidence": [
+        {
+          "pdfPage": 19,
+          "locator": "第1段落末尾の訓練の説明と第2段落全体",
+          "summary": "弱点を認識して他者に任せ、得意分野と従う分野を区別する。プライドの放棄とは説明していない。"
+        }
+      ],
+      "knowledge": [
+        "選択肢の前半が一致していても、後半の行動まで本文にあるか確認する。",
+        "部分的な役割分担を、あらゆる場合の行動へ一般化しない。"
+      ],
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "弱点を認識する点は一致するが、その弱点を自分で克服するという行動は本文の説明と異なる。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "不得意な分野を他の宇宙飛行士に任せるという、訓練の学びに一致する。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "本文はプライドを捨てるという意味ではないと明確に説明している。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "自分の役割を分野ごとに区別する説明であり、どんな場合も担当者に従うという一般化はできない。"
+        }
+      ],
+      "nextPractice": "別の内容一致問題で、選択肢を前半・後半に分け、「常に」「すべて」などの広い表現も含めて両方の根拠を探す。",
+      "notes": "原文与选项未全文转写；这些为独立解题说明，仅作答后或明确请求解答时显示。2017年历史阅读练习，不作为当前难度校准。"
+    },
+    "official-jasso-2017-2-integrated-a002": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-70b529344964a0f6",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "米国の海岸線と東西・南北関係を手がかりに、D.C.の位置を選ぶ。",
+      "evidence": [
+        {
+          "pdfPage": 3,
+          "locator": "PDF 3頁（総合科目−1）共通会話全文",
+          "summary": "会話は2017年の米国大統領就任についてで、下線部2にD.C.がある。次頁には①～④の4地点を示す米国地図がある。"
+        },
+        {
+          "pdfPage": 4,
+          "locator": "PDF 4頁（総合科目−2）問1⑵、図または条件および全選択肢",
+          "summary": "会話は2017年の米国大統領就任についてで、下線部2にD.C.がある。次頁には①～④の4地点を示す米国地図がある。"
+        }
+      ],
+      "knowledge": [
+        "D.C.の東部での位置は地理知識を用いて地図に対応させる。会話に都市の座標は書かれていない。",
+        "③は④より南にあり、太平洋側の①やメキシコ湾側の②とは区別できる。"
+      ],
+      "sourceVsBackground": {
+        "sourceGiven": "会話は2017年の米国大統領就任についてで、下線部2にD.C.がある。次頁には①～④の4地点を示す米国地図がある。",
+        "backgroundKnowledge": [
+          "D.C.の東部での位置は地理知識を用いて地図に対応させる。会話に都市の座標は書かれていない。",
+          "③は④より南にあり、太平洋側の①やメキシコ湾側の②とは区別できる。"
+        ],
+        "inferenceBoundary": "会話の政権・政策・協定への記述は2017年の出題時点の文脈。現在の政権や協定の状態を説明する教材ではない。D.C.を海岸そのものの都市とは説明しない。",
+        "externalSourceIds": [
+          "usgs-dc-location"
+        ]
+      },
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "①は太平洋側北西部で、D.C.がある大西洋側ではない。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "②はメキシコ湾側で、D.C.の位置より南西にある。"
+        },
+        {
+          "choice": "3",
+          "correct": true,
+          "reason": "③は大西洋側の東部で、④より南に位置するD.C.に対応する。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "④は③より北東の位置で、D.C.の点ではない。"
+        }
+      ],
+      "nextPractice": "海岸線で東西を確認してから、同じ東部にある候補の南北関係を比べる。",
+      "notes": "2017年の歴史的公式練習。独自解説であり、原文・選択肢の全文転写ではない。原頁は利用者が公式PDFからローカル導入する。会話の政権・政策・協定への記述は2017年の出題時点の文脈。現在の政権や協定の状態を説明する教材ではない。D.C.を海岸そのものの都市とは説明しない。"
+    },
+    "official-jasso-2017-2-integrated-a009": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-5d8f5fdc95a98c99",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "労働需要・供給の曲線と、図からは直接読めない説明を区別する。",
+      "evidence": [
+        {
+          "pdfPage": 8,
+          "locator": "PDF 8頁（総合科目−6）問3、図または条件および全選択肢",
+          "summary": "縦軸は賃金水準、横軸は労働供給量・需要量。需要曲線は右下がり、供給曲線は右上がり。他の条件を一定とする。"
+        }
+      ],
+      "knowledge": [
+        "問題が想定する拘束力のある最低賃金では、高い賃金の水平線と各曲線の交点から、需要労働量の減少と供給労働量の増加を読む。",
+        "機械への代替は労働費用上昇への企業の対応を説明する知識で、図に機械の台数が描かれているわけではない。"
+      ],
+      "sourceVsBackground": {
+        "sourceGiven": "縦軸は賃金水準、横軸は労働供給量・需要量。需要曲線は右下がり、供給曲線は右上がり。他の条件を一定とする。",
+        "backgroundKnowledge": [
+          "問題が想定する拘束力のある最低賃金では、高い賃金の水平線と各曲線の交点から、需要労働量の減少と供給労働量の増加を読む。",
+          "機械への代替は労働費用上昇への企業の対応を説明する知識で、図に機械の台数が描かれているわけではない。"
+        ],
+        "inferenceBoundary": "2017年の基本的な競争市場モデルに沿う判断。実際の最低賃金政策の雇用効果は市場構造や条件によって異なり、本問の正解を普遍的な実証結果とはしない。",
+        "externalSourceIds": [
+          "ilo-minimum-wage"
+        ]
+      },
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "①の個々の労働者の労働時間短縮は、この集計需要供給図からは導けない。図の供給量は賃金上昇で増える向きである。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "②は需要量減少と供給量増加という図の方向と合わない。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "③の起業意欲と個人事業主数は図の変数ではなく、この条件だけでは増加を示せない。"
+        },
+        {
+          "choice": "4",
+          "correct": true,
+          "reason": "④の雇用労働量削減は需要曲線に沿う。機械化は労働費用上昇に対する代替の説明として本問では最も適当だが、図そのものが機械導入量を示しているわけではない。"
+        }
+      ],
+      "nextPractice": "高い賃金水準で需要曲線と供給曲線を別々に読み、資料外の理由は別の行に書く。",
+      "notes": "2017年の歴史的公式練習。独自解説であり、原文・選択肢の全文転写ではない。原頁は利用者が公式PDFからローカル導入する。2017年の基本的な競争市場モデルに沿う判断。実際の最低賃金政策の雇用効果は市場構造や条件によって異なり、本問の正解を普遍的な実証結果とはしない。"
+    },
+    "official-jasso-2017-2-integrated-a014": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-241b0dc7cd869c6b",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "同じドル量に対応する二通貨の比を、円/マルクの単位へ直す。",
+      "evidence": [
+        {
+          "pdfPage": 11,
+          "locator": "PDF 11頁（総合科目−9）問8、図または条件および全選択肢",
+          "summary": "1960年代の条件として1ドル=360円、1ドル=4マルクが示される。金1オンス=35ドルという背景数値もある。"
+        }
+      ],
+      "knowledge": [
+        "4マルク=360円を作り、求める単位1マルク当たりの円へ直す。",
+        "金のドル価格35と通貨間の比率は役割が違う。今回の換算には35を使わない。"
+      ],
+      "sourceVsBackground": {
+        "sourceGiven": "1960年代の条件として1ドル=360円、1ドル=4マルクが示される。金1オンス=35ドルという背景数値もある。",
+        "backgroundKnowledge": [
+          "4マルク=360円を作り、求める単位1マルク当たりの円へ直す。",
+          "金のドル価格35と通貨間の比率は役割が違う。今回の換算には35を使わない。"
+        ],
+        "inferenceBoundary": "与えられた1960年代の固定比率での計算。現行相場や現在流通する通貨の案内ではない。",
+        "externalSourceIds": []
+      },
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "①の35は金1オンスのドル価格の数値を取り違えており、円/マルクの値ではない。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "②は360円/4マルク=90円/マルクとなり、単位も一致する。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "③の120では4マルク=480円となり、与えられた360円と一致しない。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "④の140では4マルク=560円となり、与えられた360円と一致しない。"
+        }
+      ],
+      "nextPractice": "両替を二段階の式にして共通通貨を消し、答えの単位を最後に確認する。",
+      "notes": "2017年の歴史的公式練習。独自解説であり、原文・選択肢の全文転写ではない。原頁は利用者が公式PDFからローカル導入する。与えられた1960年代の固定比率での計算。現行相場や現在流通する通貨の案内ではない。"
+    },
+    "official-jasso-2017-2-integrated-a020": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-3ba2267678235ae2",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "日本地図で東経135度子午線と明石付近を対応させる。",
+      "evidence": [
+        {
+          "pdfPage": 14,
+          "locator": "PDF 14頁（総合科目−12）問14⑴、図または条件および全選択肢",
+          "summary": "日本標準時子午線が東経135度と明示され、日本地図上に候補の4本の経線がある。"
+        }
+      ],
+      "knowledge": [
+        "東経135度子午線は兵庫県明石市を通る。",
+        "明石付近を地図で押さえると②であり、①は西、③と④は東にある。"
+      ],
+      "sourceVsBackground": {
+        "sourceGiven": "日本標準時子午線が東経135度と明示され、日本地図上に候補の4本の経線がある。",
+        "backgroundKnowledge": [
+          "東経135度子午線は兵庫県明石市を通る。",
+          "明石付近を地図で押さえると②であり、①は西、③と④は東にある。"
+        ],
+        "inferenceBoundary": "地図に候補経線の数値ラベルはなく、明石と135度の対応は背景知識。近隣の都市を推測して正解番号を付け足さない。同頁の時差問題⑵は本項目の採点対象ではない。",
+        "externalSourceIds": [
+          "akashi-meridian"
+        ]
+      },
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "①は明石付近を通る②より西にあり、東経135度の線ではない。"
+        },
+        {
+          "choice": "2",
+          "correct": true,
+          "reason": "②は近畿西部の明石付近を通る日本標準時子午線に対応する。"
+        },
+        {
+          "choice": "3",
+          "correct": false,
+          "reason": "③は②が通る明石付近より東にあり、東経135度の位置ではない。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "④はさらに東側の候補で、明石付近を通らない。"
+        }
+      ],
+      "nextPractice": "近畿地方と明石付近を先に指し、そこを通る南北の線を追う。",
+      "notes": "2017年の歴史的公式練習。独自解説であり、原文・選択肢の全文転写ではない。原頁は利用者が公式PDFからローカル導入する。地図に候補経線の数値ラベルはなく、明石と135度の対応は背景知識。近隣の都市を推測して正解番号を付け足さない。同頁の時差問題⑵は本項目の採点対象ではない。"
+    },
+    "official-jasso-2017-1-integrated-a009": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-95c59bdb1fe7f200",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "供給曲線の上方移動と新しい均衡点から、価格上昇幅の範囲を読む。",
+      "evidence": [
+        {
+          "pdfPage": 7,
+          "locator": "PDF 7頁（総合科目−5）問3、図または条件および全選択肢",
+          "summary": "課税前の均衡価格は1000円、単位当たり税額は400円。右下がりの需要曲線と課税前後の供給曲線が描かれる。"
+        }
+      ],
+      "knowledge": [
+        "図の新しい交点は元の交点より高く、数量は少なくなる。",
+        "供給曲線の縦の差400円と、均衡価格の上昇額は同じとは限らない。本図では上昇幅が400円未満。"
+      ],
+      "sourceVsBackground": {
+        "sourceGiven": "課税前の均衡価格は1000円、単位当たり税額は400円。右下がりの需要曲線と課税前後の供給曲線が描かれる。",
+        "backgroundKnowledge": [
+          "図の新しい交点は元の交点より高く、数量は少なくなる。",
+          "供給曲線の縦の差400円と、均衡価格の上昇額は同じとは限らない。本図では上昇幅が400円未満。"
+        ],
+        "inferenceBoundary": "与えられた曲線形状での範囲判断。需要や供給の形が違う市場に同じ価格転嫁率を一般化せず、正確なPの数値も捏造しない。",
+        "externalSourceIds": []
+      },
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "①は値上がり幅が税額400円を超えるが、この図の需要・供給の傾きではそうならない。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "②は税額400円をすべて価格上昇に加えており、新均衡で数量が減ることを入れていない。"
+        },
+        {
+          "choice": "3",
+          "correct": true,
+          "reason": "③は価格が1000円を上回る一方、400円の全額は上乗せされないという新しい交点の位置に合う。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "④では課税前と同じ価格になるが、図の新しい交点は元の交点より高い。"
+        }
+      ],
+      "nextPractice": "課税前後の交点を比較し、税額の縦幅と価格の縦幅を別々に示す。",
+      "notes": "2017年の歴史的公式練習。独自解説であり、原文・選択肢の全文転写ではない。原頁は利用者が公式PDFからローカル導入する。与えられた曲線形状での範囲判断。需要や供給の形が違う市場に同じ価格転嫁率を一般化せず、正確なPの数値も捏造しない。"
+    },
+    "official-jasso-2017-1-integrated-a011": {
+      "audience": "coach_only",
+      "visibility": "after_attempt_or_explicit_solution_request",
+      "item_version": "official-pages-237c3c69c2a5b1ac",
+      "reviewed": true,
+      "reviewStatus": "checked_against_complete_source_and_official_key_by_parent",
+      "questionFocus": "基準年をそろえて実質GDPを求め、名目GDPとの比を指数にする。",
+      "evidence": [
+        {
+          "pdfPage": 8,
+          "locator": "PDF 8頁（総合科目−6）問5、図または条件および全選択肢",
+          "summary": "今年の名目GDP525兆円、前年の名目GDP500兆円、実質成長率0%、前年を基準年とする条件がある。"
+        }
+      ],
+      "knowledge": [
+        "前年が基準年なので前年の実質GDPは500兆円。今年の実質成長率0%から今年も500兆円。",
+        "名目GDP÷実質GDPは1.05。基準年100の指数で表すため100倍して105とする。"
+      ],
+      "sourceVsBackground": {
+        "sourceGiven": "今年の名目GDP525兆円、前年の名目GDP500兆円、実質成長率0%、前年を基準年とする条件がある。",
+        "backgroundKnowledge": [
+          "前年が基準年なので前年の実質GDPは500兆円。今年の実質成長率0%から今年も500兆円。",
+          "名目GDP÷実質GDPは1.05。基準年100の指数で表すため100倍して105とする。"
+        ],
+        "inferenceBoundary": "525兆円と500兆円は設問の仮定値であり、2017年の実測統計ではない。デフレーター105、比率1.05、上昇率5%を区別する。",
+        "externalSourceIds": [
+          "cao-gdp-base",
+          "digital-gdp-deflator"
+        ]
+      },
+      "optionAnalysis": [
+        {
+          "choice": "1",
+          "correct": false,
+          "reason": "①の95は価格水準が5%下がる値で、実質量一定で名目GDPが増える条件と逆である。"
+        },
+        {
+          "choice": "2",
+          "correct": false,
+          "reason": "②の100は名目GDPと実質GDPが同額の場合であり、525兆円と500兆円には合わない。"
+        },
+        {
+          "choice": "3",
+          "correct": true,
+          "reason": "③は525/500×100=105という指数の計算に合う。"
+        },
+        {
+          "choice": "4",
+          "correct": false,
+          "reason": "④の110なら実質GDP500兆円に対し名目GDP550兆円が必要で、与えられた525兆円と合わない。"
+        }
+      ],
+      "nextPractice": "名目、実質、基準年100の指数の三列を作り、0%がどの量の変化なのか確認する。",
+      "notes": "2017年の歴史的公式練習。独自解説であり、原文・選択肢の全文転写ではない。原頁は利用者が公式PDFからローカル導入する。525兆円と500兆円は設問の仮定値であり、2017年の実測統計ではない。デフレーター105、比率1.05、上昇率5%を区別する。"
+    }
+  }
+}

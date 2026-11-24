@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+# JASSO 官方原页图片不随仓库分发，由使用者在本机导入
+core/src/eju_core/data/media/official/
+*.sqlite
+*.sqlite-*

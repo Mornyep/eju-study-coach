@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling>=1.27,<2"]
+build-backend = "hatchling.build"
+
+[project]
+name = "eju-learning-core"
+version = "1.0.0b11"
+description = "Local evidence and recovery tools for Codex-led EJU study"
+requires-python = ">=3.12,<3.15"
+dependencies = [
+    "fsrs==6.3.2",
+    "cryptography==50.0.2",
+    "mcp==2.3.0",
+    "pillow==12.3.0",
+    "pypdfium2==5.14.0",
+]
+
+[project.scripts]
+eju-core = "eju_core.cli:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/eju_core"]
+
+[tool.uv]
+package = true

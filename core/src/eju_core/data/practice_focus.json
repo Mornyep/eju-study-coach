@@ -1,0 +1,792 @@
+{
+  "schema_version": 1,
+  "focuses": [
+    {
+      "id": "jp_claim",
+      "subject": "japanese_reading",
+      "label": "主旨与作者观点",
+      "description": "区分作者的观点、介绍的他人观点和举例，归纳文章结论。"
+    },
+    {
+      "id": "jp_relations",
+      "subject": "japanese_reading",
+      "label": "句段关系与因果",
+      "description": "整理时间顺序、对比或因果关系，区分过程、结果和转折。"
+    },
+    {
+      "id": "jp_reference",
+      "subject": "japanese_reading",
+      "label": "指代与比喻",
+      "description": "将指代或比喻对应到上下文中的具体内容。"
+    },
+    {
+      "id": "jp_conditions",
+      "subject": "japanese_reading",
+      "label": "条件与信息筛选",
+      "description": "在通知或说明中找出明确条件，核对对象、要求和顺序。"
+    },
+    {
+      "id": "jp_scope",
+      "subject": "japanese_reading",
+      "label": "选项范围与推断限度",
+      "description": "核对范围、程度和推断边界，避免把有关联读成已经证明。"
+    },
+    {
+      "id": "ig_map",
+      "subject": "integrated",
+      "label": "地图与位置关系",
+      "description": "结合地图识别区域、方向及内陆与沿海位置。"
+    },
+    {
+      "id": "ig_graph",
+      "subject": "integrated",
+      "label": "图表与数据读取",
+      "description": "读取图表的轴、单位、占比与变化，分清资料给出的信息。"
+    },
+    {
+      "id": "ig_chronology",
+      "subject": "integrated",
+      "label": "年代与事件排序",
+      "description": "用年代锚点核对事件先后，区分事件发生与影响出现的时间。"
+    },
+    {
+      "id": "ig_mechanism",
+      "subject": "integrated",
+      "label": "经济因果与交易方向",
+      "description": "追踪经济机制和资金流向，分清交易双方与变化方向。"
+    },
+    {
+      "id": "ig_concepts",
+      "subject": "integrated",
+      "label": "概念与制度辨析",
+      "description": "区分相近概念和制度、组织的定义与适用范围。"
+    },
+    {
+      "id": "ig_calculation",
+      "subject": "integrated",
+      "label": "单位换算与计算",
+      "description": "统一单位和比较基准，写清计算方向。"
+    }
+  ],
+  "items": {
+    "official-jasso-2018-1-japanese_reading-a002": {
+      "item_version": "official-pages-d3ecbc7a185443e4",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_conditions",
+        "jp_scope"
+      ],
+      "rationale": "案内に明記された、ラウンジが実施している具体的なサービスを選ぶ。",
+      "basis": {
+        "guidance_sha256": "c7bec5e9fb1d29b848177b3851e51eacbc71f2ad06279091ab78462d29a36104"
+      }
+    },
+    "official-jasso-2018-1-japanese_reading-a005": {
+      "item_version": "official-pages-293a8087131af764",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_relations"
+      ],
+      "rationale": "新旧商品の交替について、一般説明と例に共通する時間順序を整理する。",
+      "basis": {
+        "guidance_sha256": "34ea7ac8e4b5e576f33a9301e553d25b3847358badaf3b29b28b65cf8109a4dc"
+      }
+    },
+    "official-jasso-2018-1-japanese_reading-a010": {
+      "item_version": "official-pages-09d28f0c3a2a4d91",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_claim",
+        "jp_scope"
+      ],
+      "rationale": "人間とコンピュータの比較を踏まえ、文章全体の結論を選ぶ。",
+      "basis": {
+        "guidance_sha256": "57e8d3d8ab6fb0e54dcc18a1cb9650a225bb20a619b8ad7852855fb312506575"
+      }
+    },
+    "official-jasso-2018-1-japanese_reading-a011": {
+      "item_version": "official-pages-7dc8a68122af789a",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_conditions"
+      ],
+      "rationale": "筆者が示す、グループ別の価格設定を成功させる条件を特定する。",
+      "basis": {
+        "guidance_sha256": "eb3102f2e4db91c992631ea718ac441d6810a082f48c976418e186b7e417f224"
+      }
+    },
+    "official-jasso-2018-1-japanese_reading-a012": {
+      "item_version": "official-pages-7dc8a68122af789a",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_scope"
+      ],
+      "rationale": "文章で定義された、需要の価格弾力性が小さい人たちの行動を言い換える。",
+      "basis": {
+        "guidance_sha256": "2c2519940ea7adc03bc1392d785be2edf29233546454077325e947204a99b854"
+      }
+    },
+    "official-jasso-2018-1-japanese_reading-a023": {
+      "item_version": "official-pages-be6988129af8fce9",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_relations"
+      ],
+      "rationale": "1964年の大会で絵による案内が作られた直接の理由を確認する。",
+      "basis": {
+        "guidance_sha256": "02bf457f37a048e42b5bcd675225eb10fec6a862b7ff99d1105b3df051a587f5"
+      }
+    },
+    "official-jasso-2018-1-japanese_reading-a024": {
+      "item_version": "official-pages-be6988129af8fce9",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_reference"
+      ],
+      "rationale": "下線の比喩が表す、開催国を越えた継承の内容を説明する。",
+      "basis": {
+        "guidance_sha256": "fc1a3aece1b0c131bd2d7200e9357514faafd64d2c2b1a46c81deac253d03121"
+      }
+    },
+    "official-jasso-2018-1-japanese_reading-a025": {
+      "item_version": "official-pages-be6988129af8fce9",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_claim",
+        "jp_relations"
+      ],
+      "rationale": "末段の評価を踏まえ、筆者が説明する普及の要因と一致する記述を選ぶ。",
+      "basis": {
+        "guidance_sha256": "a4665af46b8cb56f013f04b05a17f3b4bb947290cf2842e50383744253b1d894"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a002": {
+      "item_version": "official-pages-ee3ae06e490afd42",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_claim"
+      ],
+      "rationale": "辞書や権威による定義と、実際のことばの変化を対比して筆者の考えを捉える。",
+      "basis": {
+        "guidance_sha256": "a1f4f1fcb49978dcaf2e0e601659367bb4594d2a86c9a53df3c3119498da177e"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a003": {
+      "item_version": "official-pages-d1b37ec41834f715",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_relations"
+      ],
+      "rationale": "防虫剤が害虫の何に働きかけるのか、本文の仕組みから特定する。",
+      "basis": {
+        "guidance_sha256": "d672bca2b372a8ab445645126f47131f93a2fdec19874b45fb03784d92ce1ff1"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a004": {
+      "item_version": "official-pages-7e7f171e55fbb798",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_conditions"
+      ],
+      "rationale": "申込先、申込期限、必須テストを別々に確認し、受講までの順序を選ぶ。",
+      "basis": {
+        "guidance_sha256": "d36a3296bf1b7ef51f4c59681342cbcd1ee4b4548ce23a3a604238e77096fa5c"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a006": {
+      "item_version": "official-pages-c7bb51b0d4e50daa",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_claim",
+        "jp_relations"
+      ],
+      "rationale": "外部の圧力についての見方を踏まえ、筆者が勧める受け止め方を選ぶ。",
+      "basis": {
+        "guidance_sha256": "022c5023988840d5a4935841707421a96c4db27f8596ce3c94659e77137a6579"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a007": {
+      "item_version": "official-pages-e7f2ab377b22526a",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_relations"
+      ],
+      "rationale": "修復の昔の基準と現在の重点を区別する。",
+      "basis": {
+        "guidance_sha256": "ca9945a504519d7b2ead04655cc76324f40b380ba2ea1dad7b08f9da68a7f7f0"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a008": {
+      "item_version": "official-pages-414587481aea3d10",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_relations"
+      ],
+      "rationale": "すでに進んだ研究と、今後不足を補うべき情報を区別する。",
+      "basis": {
+        "guidance_sha256": "37a21c417cbef387852da74ac486a51356fee564672688ccc6026bf16809ffb2"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a010": {
+      "item_version": "official-pages-f10175eeb2885cad",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_scope"
+      ],
+      "rationale": "脳の形態と言語との関係について、認める範囲と推定の限界を読む。",
+      "basis": {
+        "guidance_sha256": "711aa99841d3004e582b98940191a36600f5ead09dd8f08a4064c5b3378ebbd1"
+      }
+    },
+    "official-jasso-2018-1-integrated-a005": {
+      "item_version": "official-pages-21b8e28ddc16883b",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_map"
+      ],
+      "rationale": "先判断马德里在内陆还是沿海，再定位半岛中央。",
+      "basis": {
+        "guidance_sha256": "efeea242cce25d52c463630a260aea9054cb465641de3b6087ab6f7e0ef3bce5"
+      }
+    },
+    "official-jasso-2018-1-integrated-a024": {
+      "item_version": "official-pages-3f92fea94eff8176",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_graph"
+      ],
+      "rationale": "先看三角图的顶点与平行线，再比较第一产业占比。",
+      "basis": {
+        "guidance_sha256": "ebe266276a210b76c6f5d4e59f655d3986068a168e249b9c728c56bd5549bf8e"
+      }
+    },
+    "official-jasso-2018-1-integrated-a009": {
+      "item_version": "official-pages-b951f6019362812b",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_concepts"
+      ],
+      "rationale": "将保护幼稚产业的主张、经济学家和国家对应。",
+      "basis": {
+        "guidance_sha256": "c59f550b8c2dea31e2a4218144687238da08bcee95409fb5d3071b1359039189"
+      }
+    },
+    "official-jasso-2018-1-integrated-a011": {
+      "item_version": "official-pages-0fb1971188e6db45",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_graph"
+      ],
+      "rationale": "先读集中度指标和图中年代，再用产业结构知识配线。",
+      "basis": {
+        "guidance_sha256": "bbdb69fa9484d20ec8636aafbc19f07f7ffc944cad451545bb32f6adb432a6b2"
+      }
+    },
+    "official-jasso-2018-1-integrated-a012": {
+      "item_version": "official-pages-c9a12b1bf638946c",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_mechanism"
+      ],
+      "rationale": "沿着央行买入债券、支付资金的方向判断货币供给。",
+      "basis": {
+        "guidance_sha256": "50090c43fd211f35f49281a8b74fe0ae1032aeac15cf49aeebc41351908afcd8"
+      }
+    },
+    "official-jasso-2018-1-integrated-a013": {
+      "item_version": "official-pages-f42f6882fa30876f",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_graph"
+      ],
+      "rationale": "比较消费与投资在 GDP 中的构成比，保留2016年时点。",
+      "basis": {
+        "guidance_sha256": "bb4bd4e0da718f32ebf1eca0bcd429b1e1e18f342a4a75b72537f00547a7eae7"
+      }
+    },
+    "official-jasso-2018-1-integrated-a014": {
+      "item_version": "official-pages-497cb1eb337623f7",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_graph",
+        "ig_chronology"
+      ],
+      "rationale": "先定位负增长的年份，再匹配事件及其滞后影响。",
+      "basis": {
+        "guidance_sha256": "a92136cfb55cf93f05e8d864b8f7e6bc42499deb0ee128a79744e9cc8e9f0069"
+      }
+    },
+    "official-jasso-2018-1-integrated-a015": {
+      "item_version": "official-pages-4ad7b6047ee07317",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_concepts"
+      ],
+      "rationale": "判断措施是否直接监督公司经营，而非泛指企业活动。",
+      "basis": {
+        "guidance_sha256": "dad6fc666cbacc15fe3b2b51c782f79fd044f11203980914fca709c3f8ae6887"
+      }
+    },
+    "official-jasso-2018-1-integrated-a017": {
+      "item_version": "official-pages-bd316499506d02e2",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_calculation"
+      ],
+      "rationale": "先统一成日元，再计算今年减去前年。",
+      "basis": {
+        "guidance_sha256": "8a6258668b82570f900589965fab2becbbf1e26e5fbc7bd64ad468063d048c35"
+      }
+    },
+    "official-jasso-2018-1-integrated-a027": {
+      "item_version": "official-pages-d0e99d4e660f5458",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_concepts"
+      ],
+      "rationale": "逐项核对两院的权限及国会议员、国务大臣的构成条件。",
+      "basis": {
+        "guidance_sha256": "255ff06e54d4cf061584659025be5d958e6e94314e19b18c5d1cd78475d1b9d7"
+      }
+    },
+    "official-jasso-2018-1-integrated-a028": {
+      "item_version": "official-pages-7c98f6937b3f7693",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_concepts"
+      ],
+      "rationale": "区分议席分配方式和投票时是否署名。",
+      "basis": {
+        "guidance_sha256": "51517b202d92296551602ae8106d473fdb303983943b9e038fc119c3afbc3da7"
+      }
+    },
+    "official-jasso-2018-1-integrated-a030": {
+      "item_version": "official-pages-c79335ccecd34852",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_chronology"
+      ],
+      "rationale": "以1956年加入联合国为时间锚点，检查国交恢复事件。",
+      "basis": {
+        "guidance_sha256": "d3c785f8f68ea8358dafbd63a209a9d38abfe434caa009030f32f396856ff99a"
+      }
+    },
+    "official-jasso-2018-1-integrated-a032": {
+      "item_version": "official-pages-51fcce79b9b94e4c",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_concepts"
+      ],
+      "rationale": "找尊重国内少数文化与语言的制度，而非对外推广。",
+      "basis": {
+        "guidance_sha256": "fd8794c3a0e5d6cb844c22dc6a0849de5f413d02e1f9581c5204a114a040473f"
+      }
+    },
+    "official-jasso-2018-1-integrated-a034": {
+      "item_version": "official-pages-58b53b9b90b95f2f",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_concepts"
+      ],
+      "rationale": "围绕维也纳会议的正统主义与势力均衡核对各项。",
+      "basis": {
+        "guidance_sha256": "cf067bc99ca99b6b4df22d596a0c480d5182bc7b42ca981c616bc8fb228ca51c"
+      }
+    },
+    "official-jasso-2018-1-integrated-a001": {
+      "item_version": "official-pages-539919c46bace8a4",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_mechanism"
+      ],
+      "rationale": "終戦直後の公債発行と物価変動の関係を選ぶ。",
+      "basis": {
+        "guidance_sha256": "41ecdd692a3c8d329159e3bfc13336379e4b4badc0ff18b7cdaf97373b59060e"
+      }
+    },
+    "official-jasso-2018-1-integrated-a002": {
+      "item_version": "official-pages-fdf54cfa5989a084",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_map"
+      ],
+      "rationale": "日本地図で長崎の位置を特定する。",
+      "basis": {
+        "guidance_sha256": "1ed275e8a6135aa754d5e16e2e581ade017f477b4caab6c47a3975eb01130eb0"
+      }
+    },
+    "official-jasso-2018-1-integrated-a003": {
+      "item_version": "official-pages-24827c90de895191",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_chronology"
+      ],
+      "rationale": "戦車が最初に実戦で用いられた戦争を選ぶ。",
+      "basis": {
+        "guidance_sha256": "2ff79f446abcfd9492b1df1c0a9d721823a8606a0acf180336edc05d427d9bb6"
+      }
+    },
+    "official-jasso-2018-1-integrated-a004": {
+      "item_version": "official-pages-e7ed4d8875bf8133",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_concepts"
+      ],
+      "rationale": "部分的核実験禁止条約の禁止範囲を区別する。",
+      "basis": {
+        "guidance_sha256": "cf169a572541c0405966c574bf6e4e5e13a02cc16289d69916ec028553becdc2"
+      }
+    },
+    "official-jasso-2018-1-integrated-a006": {
+      "item_version": "official-pages-78208a93018794aa",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_chronology"
+      ],
+      "rationale": "四つの出来事を古いものから順に並べる。",
+      "basis": {
+        "guidance_sha256": "60cc9c5e301ca0bcac69f98b19bdbc5f96ffc4020494a4b86e0b4265dc5ef82e"
+      }
+    },
+    "official-jasso-2018-1-integrated-a007": {
+      "item_version": "official-pages-7d82bb2456ee69e9",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_concepts"
+      ],
+      "rationale": "NATOの成立背景と組織の性格を選ぶ。",
+      "basis": {
+        "guidance_sha256": "d383c6cc58b6058d679150337b75b798b5284e90036cca1bf4e77c205d6a9e6c"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a013": {
+      "item_version": "official-pages-54cbebdc71e51ff6",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_relations"
+      ],
+      "rationale": "考え方の枠組みが違うという一般説明の後に、上司と部下の具体例が続く関係を判定する。",
+      "basis": {
+        "guidance_sha256": "93615ef99d333c332709ed77c92e4131aa766f484a945107f12540747b4b8b3a"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a014": {
+      "item_version": "official-pages-54cbebdc71e51ff6",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_scope"
+      ],
+      "rationale": "部下は発言自体を受け取っているが解釈が異なる。未伝達・無理解・無視と混同しない。",
+      "basis": {
+        "guidance_sha256": "3125f918ecd4e5d11aebc2e669b71712852d324f8dc88df2d26e2fa7e9631fa8"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a015": {
+      "item_version": "official-pages-a6b7233ffe5962e1",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_conditions",
+        "jp_relations"
+      ],
+      "rationale": "第1群だけにある条件を探すため、報酬の予告と授与の有無を分けて三群を比較する。",
+      "basis": {
+        "guidance_sha256": "9b2f9475cbf4a184d29d20578760bdbba6a2aa5d2a0d7c38ca6e8fcf51fee75f"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a016": {
+      "item_version": "official-pages-a6b7233ffe5962e1",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_relations",
+        "jp_scope"
+      ],
+      "rationale": "後日の自発的な描画が減った第1群を、事前の予告と授与の組合せに戻して確認する。未実施条件を推測しない。",
+      "basis": {
+        "guidance_sha256": "468c432c4587134bee00abcc45a6f48d5a322cfa0f1f8b7bdc5dfdca20a32c75"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a021": {
+      "item_version": "official-pages-f8dd690ae8699150",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_reference"
+      ],
+      "rationale": "「これ」を各候補に置き換え、外部からの評価の必要性を認めた上で批判自体を否定しないという文脈につなげる。",
+      "basis": {
+        "guidance_sha256": "cfe5d097117f9e98772065a08ff0dd5503d069f82b40279718f15cabaccf3eab"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a022": {
+      "item_version": "official-pages-f8dd690ae8699150",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_scope"
+      ],
+      "rationale": "背景を知ることで表面的な批判を避けるという変化を、無条件の信用・自己都合の解釈・無視から区別する。",
+      "basis": {
+        "guidance_sha256": "a235985b370cf8d1dd52cb9c4502fe96b3d2811aea77dab827d1faf2507695a3"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a023": {
+      "item_version": "official-pages-e3cc7cc4bcac63c0",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_relations"
+      ],
+      "rationale": "空欄の前後にある問題分類を使い、継続的な不良率の高さを突発的なミス・事故・注文急増から区別する。",
+      "basis": {
+        "guidance_sha256": "074a22b6f31b52a71c226dd0dffb2550b41754e957e7ca2514ad9e2778a731fd"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a024": {
+      "item_version": "official-pages-e3cc7cc4bcac63c0",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_relations",
+        "jp_claim"
+      ],
+      "rationale": "現状回復にとどまる第1類型と、成長につながる第2・第3類型をまとめた筆者の評価を不等号に対応させる。",
+      "basis": {
+        "guidance_sha256": "f900f0a8ee03bf1910c0b9029f982e05af0b72bfc6242f38d21529726c2d5bf8"
+      }
+    },
+    "official-jasso-2010-1-japanese_reading-a025": {
+      "item_version": "official-pages-e3cc7cc4bcac63c0",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_claim"
+      ],
+      "rationale": "三種類の問題の説明を踏まえ、末尾で強調する現状打破と新しい可能性の創出をまとめる。",
+      "basis": {
+        "guidance_sha256": "192e38b0ed0f7d15f9de7da650f01a88f9cffb7199d630fda5635b6535993af0"
+      }
+    },
+    "official-jasso-2010-1-integrated-a008": {
+      "item_version": "official-pages-6c4af41e8b991e87",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_mechanism"
+      ],
+      "rationale": "労働者の移動が二地域の労働供給と賃金に及ぼす変化を追う。",
+      "basis": {
+        "guidance_sha256": "fc3e999df342fc94da98440618a796b87712ee639db1a21a31ce5569ac67c606"
+      }
+    },
+    "official-jasso-2010-1-integrated-a009": {
+      "item_version": "official-pages-9d92c6bf798d5061",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_calculation"
+      ],
+      "rationale": "問題の条件からGNPを求め、人口で割って一人当たりの値に直す。",
+      "basis": {
+        "guidance_sha256": "d2d9057bc68e831bc1288deba74ac0297b5196dd864a2c1b447d8765997cdba0"
+      }
+    },
+    "official-jasso-2010-1-integrated-a010": {
+      "item_version": "official-pages-800f9800f9b469a3",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_graph",
+        "ig_calculation"
+      ],
+      "rationale": "総費用のグラフから一台当たりの生産費用が最も小さい点を選ぶ。",
+      "basis": {
+        "guidance_sha256": "96f708715e829796150778cc82d081238c2d938f11e892e06d79cc9c0d89a9cb"
+      }
+    },
+    "official-jasso-2010-1-integrated-a012": {
+      "item_version": "official-pages-cec156d79693b286",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_graph",
+        "ig_mechanism"
+      ],
+      "rationale": "費用上昇と需要増加を別々に考え、需要・供給曲線の移動後の均衡点を読む。",
+      "basis": {
+        "guidance_sha256": "43e18bce9f98095fc5e36befac567f40f15191626afec56e28901251eab71c87"
+      }
+    },
+    "official-jasso-2010-1-integrated-a018": {
+      "item_version": "official-pages-af08ec9554e3a2c5",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_graph",
+        "ig_calculation"
+      ],
+      "rationale": "低所得層への純便益の割合と金額を分けて比較する。",
+      "basis": {
+        "guidance_sha256": "d2096c72f6f0ae3d89ba4609f4e046b1e59633fa803c585f977eb9d53402604a"
+      }
+    },
+    "official-jasso-2010-1-integrated-a023": {
+      "item_version": "official-pages-6c0bb1612de69b4d",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_calculation"
+      ],
+      "rationale": "緯度と経度差から二都市間のおおよその距離を求める。",
+      "basis": {
+        "guidance_sha256": "e5d4c8de7b699a6c7b10d56221296c9364c75d6dcde0e4154b1742e77c4767db"
+      }
+    },
+    "official-jasso-2017-1-japanese_reading-a002": {
+      "item_version": "official-pages-2c9fa07f02f0e1fd",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_reference",
+        "jp_scope"
+      ],
+      "rationale": "「この論理」を直前の村と都市の比較に戻して解釈する。共通の趣味の人を見つける可能性と、その人々の割合の大小を区別する。",
+      "basis": {
+        "guidance_sha256": "2a6e855118c4847127487d7110e33530f24df0cd5027b9aa8483747d6bf83e5e"
+      }
+    },
+    "official-jasso-2017-1-japanese_reading-a011": {
+      "item_version": "official-pages-0f545d624cceea37",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_conditions"
+      ],
+      "rationale": "経営学部・学内受診という二つの条件を固定し、別学部の日時や学外受診の期間を混ぜずに照合する。",
+      "basis": {
+        "guidance_sha256": "262d9119e6674129ef064ab560bbffaa2b90b126b0b887612d5a44bb987f03e5"
+      }
+    },
+    "official-jasso-2017-1-japanese_reading-a012": {
+      "item_version": "official-pages-0f545d624cceea37",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_conditions"
+      ],
+      "rationale": "「予約をしたあとで」「受け取ってから」という順序表現を使い、学外施設への予約と学内窓口での受診票受領を分ける。",
+      "basis": {
+        "guidance_sha256": "63280d62ca84f7f46dcebfd9786ccc1d848b75c8adcbb4e01db7d79626e86a88"
+      }
+    },
+    "official-jasso-2017-1-japanese_reading-a013": {
+      "item_version": "official-pages-da0cbadc784c6c48",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_reference"
+      ],
+      "rationale": "「そうではない」の「そう」は、直前に紹介された、活発に話す人ほど能力が高いという見方を受ける。筆者が否定した内容と筆者自身の主張を取り違えない。",
+      "basis": {
+        "guidance_sha256": "d1490b3e5ebdcbd30d6b0da71867a437a594a49faa92b446c5a99bef44c95532"
+      }
+    },
+    "official-jasso-2017-1-japanese_reading-a014": {
+      "item_version": "official-pages-da0cbadc784c6c48",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_claim"
+      ],
+      "rationale": "最終段落は、相手の感情を含む情報を受け取り、その人の状況を把握する能力を重視している。冒頭の一般的イメージと筆者の結論を分ける。",
+      "basis": {
+        "guidance_sha256": "d01dff37e0d475d09f50fd841e6927c94b935510a272de3dce5fab8b708f55cd"
+      }
+    },
+    "official-jasso-2017-2-japanese_reading-a002": {
+      "item_version": "official-pages-f9a982133699c122",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_conditions"
+      ],
+      "rationale": "参加条件として明記された説明会への出席を選ぶ。先着順、交通費不支給、二通りの申込方法という別項目も確認する。",
+      "basis": {
+        "guidance_sha256": "9d0723b8b1416553d5b085a10ed24f32e8b16c82aab45ec20ec1e55b4a7576b4"
+      }
+    },
+    "official-jasso-2017-2-japanese_reading-a003": {
+      "item_version": "official-pages-49f4828832106946",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_scope",
+        "jp_relations"
+      ],
+      "rationale": "本文は筋肥大と絶対筋力を対比している。男女とも向上するという総論を、両方で効果の大小も同じだという結論へ広げない。",
+      "basis": {
+        "guidance_sha256": "5b67581d5a511743aaea0d6562c9d31758e7822420b5a4fdbd42d7867432ff0c"
+      }
+    },
+    "official-jasso-2017-2-japanese_reading-a010": {
+      "item_version": "official-pages-7d28b3bb7f24824c",
+      "reviewed": true,
+      "focus_ids": [
+        "jp_scope"
+      ],
+      "rationale": "弱点を知って他者に任せることを、弱点の克服や無条件の服従と区別する。プライドを捨てることも本文が明示的に否定している。",
+      "basis": {
+        "guidance_sha256": "b8991cf2d30dc0f752f46b60c5406d2274830dca5f878572b9be1f068cb7a04d"
+      }
+    },
+    "official-jasso-2017-2-integrated-a002": {
+      "item_version": "official-pages-70b529344964a0f6",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_map"
+      ],
+      "rationale": "米国の海岸線と東西・南北関係を手がかりに、D.C.の位置を選ぶ。",
+      "basis": {
+        "guidance_sha256": "d1257011d12fd11d3ea4539699a17aa1d1f1d706e09a28d446ec34f393c85259"
+      }
+    },
+    "official-jasso-2017-2-integrated-a009": {
+      "item_version": "official-pages-5d8f5fdc95a98c99",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_graph",
+        "ig_mechanism"
+      ],
+      "rationale": "労働需要・供給の曲線と、図からは直接読めない説明を区別する。",
+      "basis": {
+        "guidance_sha256": "018936483166b4de653d219ac0242fc8b5de7030a0afdde7cda3d836e1e6264e"
+      }
+    },
+    "official-jasso-2017-2-integrated-a014": {
+      "item_version": "official-pages-241b0dc7cd869c6b",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_calculation"
+      ],
+      "rationale": "同じドル量に対応する二通貨の比を、円/マルクの単位へ直す。",
+      "basis": {
+        "guidance_sha256": "0d06170a63235278305018a4229d1be1e48e9e8b36d3287cc75b92939b9b24dd"
+      }
+    },
+    "official-jasso-2017-2-integrated-a020": {
+      "item_version": "official-pages-3ba2267678235ae2",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_map"
+      ],
+      "rationale": "日本地図で東経135度子午線と明石付近を対応させる。",
+      "basis": {
+        "guidance_sha256": "e9bc219a7e0c0a662bf8120aebd2af57130ff7fd7e1118ac93028da8af38bb05"
+      }
+    },
+    "official-jasso-2017-1-integrated-a009": {
+      "item_version": "official-pages-95c59bdb1fe7f200",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_graph",
+        "ig_mechanism"
+      ],
+      "rationale": "供給曲線の上方移動と新しい均衡点から、価格上昇幅の範囲を読む。",
+      "basis": {
+        "guidance_sha256": "065c0870933f3f0683614304b8a25850679aea45cc88004ca2bbc509897b7cb7"
+      }
+    },
+    "official-jasso-2017-1-integrated-a011": {
+      "item_version": "official-pages-237c3c69c2a5b1ac",
+      "reviewed": true,
+      "focus_ids": [
+        "ig_calculation"
+      ],
+      "rationale": "基準年をそろえて実質GDPを求め、名目GDPとの比を指数にする。",
+      "basis": {
+        "guidance_sha256": "a592371bc425da87c2fc6d3932742a6d1b8df8e5646449fa9ed95c641792ad10"
+      }
+    }
+  }
+}
